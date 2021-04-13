@@ -1,0 +1,114 @@
+---- Right Thigh ----
+
+SetPlayerHoldingObject(playerid, 346,8,-0.1,0.0,0.1,270.0,0.0,0.0);
+Comment: Colt
+SetPlayerHoldingObject(playerid, 347,8,-0.1,0.0,0.1,270.0,0.0,0.0);
+Comment: Silenced
+SetPlayerHoldingObject(playerid, 348,8,-0.1,0.0,0.1,270.0,0.0,0.0);
+Comment: Desert
+
+SetPlayerHoldingObject(playerid, 350,8,-0.1,0.0,0.1,270.0,0.0,0.0);
+Comment: Sawn off
+
+SetPlayerHoldingObject(playerid, 353,8,0.1,-0.1,0.1,270.0,0.0,0.0);
+Comment: MP5
+SetPlayerHoldingObject(playerid, 352,8,0.1,0.0,0.1,270.0,270.0,0.0);
+Comment: UZI
+SetPlayerHoldingObject(playerid, 372,8,0.1,0.0,0.1,270.0,270.0,0.0);
+Comment: TEC
+
+---- Spine -----
+
+SetPlayerHoldingObject(playerid, 359,1,0.1,-0.2,-0.2,0.0,50.0,0.0);
+Comment: RPG
+
+SetPlayerHoldingObject(playerid, 339,1,0.3,-0.1,0.1,0.0,230.0,0.0);
+Comment: katana
+SetPlayerHoldingObject(playerid, 326,1,0.3,-0.1,0.1,0.0,230.0,0.0);
+Comment: Cane
+SetPlayerHoldingObject(playerid, 333,1,0.3,-0.1,0.1,0.0,230.0,0.0);
+Comment: Golf Cue
+SetPlayerHoldingObject(playerid, 336,1,0.3,-0.1,0.1,0.0,230.0,0.0);
+Comment: Bat
+SetPlayerHoldingObject(playerid, 338,1,0.3,-0.1,0.1,0.0,230.0,0.0);
+Comment: Pool Cue
+
+SetPlayerHoldingObject(playerid, 355,1,0.2,-0.1,0.2,180.0,40.0,180.0);
+Comment: AK-47
+SetPlayerHoldingObject(playerid, 356,1,0.2,-0.1,0.2,180.0,40.0,180.0);
+Comment: M4
+SetPlayerHoldingObject(playerid, 357,1,0.2,-0.1,0.2,180.0,40.0,180.0);
+Comment: Country
+SetPlayerHoldingObject(playerid, 358,1,0.2,-0.1,0.2,180.0,40.0,180.0);
+Comment: Sniper
+
+SetPlayerHoldingObject(playerid, 349,1,0.2,-0.1,0.2,180.0,40.0,180.0);
+Comment: Shotgun
+SetPlayerHoldingObject(playerid, 351,1,0.2,-0.1,0.3,180.0,40.0,186.0);
+Comment: Combat Shotgun
+
+SetPlayerHoldingObject(playerid, 366,1,0.4,-0.2,0.1,180.0,50.0,180.0);
+Comment: Fire Ex.
+
+---- Left thigh ----
+
+SetPlayerHoldingObject(playerid, 322,7,0.2,-0.0,-0.0,0.0,90.0,0.0);
+Comment: White Vibrator
+SetPlayerHoldingObject(playerid, 324,7,0.2,-0.0,-0.0,0.0,90.0,0.0);
+Comment: Black Vibrator
+SetPlayerHoldingObject(playerid, 323,7,0.3,-0.0,-0.2,0.0,280.0,0.0);
+Comment: White Dildo
+SetPlayerHoldingObject(playerid, 321,7,0.3,-0.0,-0.2,0.0,280.0,0.0);
+Comment: Purple Dildo
+
+SetPlayerHoldingObject(playerid, 334,7,0.0,-0.0,-0.0,0.0,90.0,0.0);
+Comment: Night Stick
+SetPlayerHoldingObject(playerid, 335,7,0.0,-0.1,-0.1,0.0,90.0,90.0);
+Comment: knife
+
+SetPlayerHoldingObject(playerid, 344,7,0.0,0.0,-0.1,0.0,270.0,0.0);
+Comment: Molotov
+SetPlayerHoldingObject(playerid, 343,7,0.0,0.0,-0.1,0.0,270.0,0.0);
+Comment: Teargas
+SetPlayerHoldingObject(playerid, 342,7,0.0,0.0,-0.1,0.0,270.0,0.0);
+Comment: Grenades
+
+SetPlayerHoldingObject(playerid, 365,7,0.0,0.0,-0.1,0.0,270.0,0.0);
+Comment: Pepper
+
+
+
+
+---------- easter eggs --------
+
+
+SetPlayerHoldingObject(playerid, 1550,3,0.1,0.1,-0.1,0.0,270.0,0.0);
+Comment: Moneyback
+SetPlayerHoldingObject(playerid, 2992,2,0.2,0.0,0.0,0.0,90.0,0.0);
+Comment: Jesus
+SetPlayerHoldingObject(playerid, 3265,1,-0.5,0.0,0.0,0.0,90.0,180.0);
+Comment: Will be Shoot Sign
+SetPlayerHoldingObject(playerid, 1575,6,0.0,0.0,0.0,0.0,90.0,0.0);
+Comment: White Cocaine
+
+
+
+----- Other ----
+SetPlayerHoldingObject(playerid, 3027,2,0.0,0.1,0.0,90.0,180.0,90.0);
+Comment: Weed
+
+
+--- Tatoo Parlors ---
+
+SetPlayerHoldingObject(playerid, 1210,5,0.3,0.1,0.0,0.0,270.0,0.0);
+Comment: Briefcase
+SetPlayerHoldingObject(playerid, 3026,1,-0.1,-0.0,0.0,0.0,0.0,0.0);
+Comment: Backpack
+
+SetPlayerHoldingObject(playerid, 2054,2,0.1,0.0,-0.0,0.0,90.0,180.0);
+Comment: Hat3
+SetPlayerHoldingObject(playerid, 2053,2,0.1,0.0,0.0,0.0,90.0,0.0);
+Comment: Hat2
+SetPlayerHoldingObject(playerid, 2052,2,0.1,0.0,0.0,0.0,90.0,0.0);
+Comment: Hat1
+

@@ -1,0 +1,259 @@
+New Features:
+Login & Register Compatible with Bots; Totally re-written gun system; Totally re-written cop system; Re-written most parts of the admin script; New brand anticheat; Robbing Places; Testers; Logs; Gym; Ammunations; 3d Textdraws; New Properties; New LSPD, FBI Base & Army Base; Airport; Vehicles; New Lotto; Hydra/Hunter/Rhino/Predator Features; New SWAT, Tactical and Special Forces System; New organization; Arrest re-wroten; Tutorial; Achievements; Firemen, Sons of Anarchy; Freecop System; Passport System; Car System; Dynamic Houseing System; New Bizz System; Vehicles System; Car Lock System; Licensing Faction; GPS System; Destruction derby official event; Anti bunny jump system; Regular players; Regular players lounge; Cop suspension system; wanking; using dildos; MOTD textdraws; Weapon training system; Changing names systems; Newbie chat; Re-wrote chat system; Speedo Textdraws; Dialogs on /equip, /buy; Drunk system; New Criminal System; Developers Area; Spectating System; HP & Armour System; Death Messages; Entering Places; Calendar; Fight Styles; Lots More.
+
+## References ##
+• Working Perfectly
+• Half Working / Buggy
+• Not Done / Not Working
+ 
+
+•  Login & Register Compatible with Bots - Yes, now you can easily add bots without having to worry about the disconnection.
+
+• Totally Re-Written Gun System - You can now carry up to 6 vweapons in your inventory, you can put/take guns from your inventory with /putgun /takegun, weapons in inventory will be saved always, even if you die; Weapons are saved on Disconnect, /update and /gmx, but NOT in /rcon gmx. Until i find a way to save the weapons when the gmx is called, this will not change.
+
+• Totally Re-Written Cop System - Yes, the 90% of the cop commands and things were modified, You need to /duty to use Cop Commands. The Duty Room is marked by a Yellow Star Pickup. SAPD Has /undercover, Which gives them undercover Clothes. SAPD Has /equip, Which gives them equipment depending their rank. FBI has /agent, Which gives them different Agents Clothes. FBI Has /equip, Which gives them equipment depending their rank. FBI also has /undercover, Which gives them Undercover Clothes. Army has /soldier, Which gives them different Soldier Clothes. Army Has /equip, Which gives them equipment depending their rank.
+
+• Re-Written Most of the Admin System - The whole admin system is modified by Logs routine, all, but Literally ALL admin commands are logged into different logs (You'll see later). All the commands were adapted into the new level system, Also every admin command also alerts to the admin chat about what you typed. The new Tree of Ranks is: Moderator (1), Global Moderator (2), Administrator (3), Senior Administrator (4), Main Administrator (5), Server Developer (6), Server Owner (1338). They will be explained later also. With this re-written admin system most of the commands now properly work and helps the admin. If you are on Admin duty you'll see the Admin Messages. If you aren't on admin duty you WONT see the messages but the admin chat. If you are level 6+ you can turn off the admin messages also. Administrators can do /trace to check the last user's punishments, they can also leave pending bans for players (admins lvl 1, 2), so if a player with a pending ban connects, other admins gets alerted.
+
+• New Brand Anticheat - I re-wrote the whole DUCK anticheat, It's new name is Peter Griffin; He will detect Weapon hackers, Speed hackers, Money Hackers, Interior Switching Hackers, Jetpack Hackers, Fake kill hackers, Laggers, Bunny jumpers, Driver DB Kills, Spammers, Flooders, People that is AFK and Invalid Names. The method of the anticheat is pretty unique and  effective; the anticheat is called every ten seconds and does a loop thru all players to check for cheats, if he detects a cheater the anticheat will advise the admins about this possible hacker, the possible hacker will be added to the Suspected Players List and admins will have to check him. The admins will determine if the possible hacker is hacker or not, if the player is hacker well, then ban, if not, the admin will set a variable on the player that when the anticheat gets called, the player will get ignored. For security reasons this variable gets reseted after 10 mins. Also once the anticheat detects a possible hacker, it wont advise the admins of it again until the next 10 mins to prevent spam. If there aren't admins online, the anticheat will proceed to kick the player, as long the anticheat is not fully tested because i don't have cheats to use... Due to repeated advise of bugs with the anticheat, Any admin level 6 Can disable certain features of the Anticheat at /turn. If there is any AFK Admin (Auto Detected by the Anticheat or by doing /afk) The Anticheat will kick the cheater.
+
+• Robbing Places - If you're a civilian and are off duty as cop (if you're one) You can go to certain locations and rob it. Places that can be robbed are the city hall, the bank, burger shoots, cluckin bells, pizza stack, alhambra and grove's bar. You can use /robcityhall, /robbank, /robburger, /robcluckin, /robpizza, /robalhambra and /robbar. You will have to stay in the pickup for the determined amount of time. If you leave the pickup you will fail the robbery. You have a 50% Chance of failing the Robbery, if you fail the robbery you'll have to wait 600 seconds before robbing a place again. The time cannot be by-passed because it gets saved to the player's file. Once the place is robbed, it cannot be robbed again in some minutes.
+
+• Testers - Due to a nice Suggestion, i added The Testers System. They are able to read /atalk, use /tpm, /tduty and /tester (or ///) for Tester Chat which can be readed by admins. I will make so testers with different levels will be able to use certain admins commands. Currently there are three levels, Lead Tester, Tester and Trial Tester.
+
+• Logs - Every Command is logged into the server. Administrative commands will go on certain .txts, explosions will go on explosions.txt, slaps will go to slaps.txt and so on. Things that are logged are Admin / this will log all the administrative commands that aren't logged on the others files; action / this logs all the /me, /do, /try actions; adminchat Admin chat; announces / announces made by /td or things that use GameTextForAll/player; apm / all admin pms; ban / all bans; ck / character kills; commands normal user commands; chat /shout, /local, /say, /whisper and OnPlayerText is logged here; explosions / all the explosions; family / family chat; freeze / freezes and thaws; jails / ajails, prisons and jails from cops; kick / kicks from admins or anticheat; logins all log-ins and or important things related to the account of a player; moves / /up /down /left /right /fly; mute / all mutes; pay / all transactions of any kind of money; pm / all pms; public / /p chat; radio / all /radio, /d and /gov; sets,gives / anything related to any set or give from the administrations (e.x: /sethp); slaps / all the slaps; teleports / all admin commands where teleport-to-player is involved (/goto, /gotomark); warn / all admin warnings; reports / all reports; local / local chat; places / all admin commands where teleport-to-palce is involved (/gotols, /gotolsch); allcommands / All the commands that are typed (OnPlayerCommandText call)
+
+• Gym - Yes, gym has a purpose now, you can now go there and train your skill on fight styles. Once you choose to train you will be taken to 'training', once the training is finished you will have your fight style, which you can switch between the others you already had.
+
+• Ammunations - Ammunations now re-added, you can buy weapons, they are more expensive than the creation and you need a gun license to buy them, but they're legal. You can also train your weapon skill on there (explained later).
+
+• 3d Textdraws - Properties now have 3dTextdraws in houses and important places. Each house, business and special business will have his own textdraw at the door. SALES Vehicles and doors of state buildings will also have this textdraw.
+
+• New Properties - All the houses were re-viewed personally by me and TheToni, there are now 650 houses and you can add lots more.
+
+• New LSPD, FBI Base & Army Base - I have added windows and new doors at the LSPD, to open a windows/door you must press KEY_LOOK_BEHIND (MMB By SA Default), to close it again press that; also re-wrote the elevator of the LSPD and the FBI HQ. Now the army has a base added, they have their custom interior and jail like the other departments.
+
+• Airport - Idea mainly from Crazybob's CnR old version, You can now go to the airport and buy a ticket to the desired places. When you buy a ticket you will get teleported to the Shamal interior / andromeda interior depending the destiny and you'll have to wait depending the distance to arrive to your location. From LS, SF & LV you can buy skydiving tickets. You cannot choose the diving options in the abandoned airport. I've also added a plane to return to LS after being prisoned. Shamal from abandoned airport and andromeda from area 69 can be only driven by admins on duty that are lvl 6+
+
+• Vehicles - There are now vehicles that aren't ownable and drive-able by everyone. I have added them around los santos. Each city airport has cars on it's parking. Each airport has special planes and helicopters. Each location that you can dive has special cars and vehicles. added also vehicles at the DD stadium just in case you need to go back home. New vehicles for the special teams added and more police vehicles too.
+
+• New Lotto - Admins lvl 5 can now /setjackpot <1-2500000>, /startlottoex, /lottoann and /lottosay. (will be explained later), Admins 1338 can /setlotto <1-75>.
+
+• Hydra/Hunter/Predator/Rhino Features - Idea mainly taken from Argonath RPG, SWAT, Tactical and Special Forces member that haves rank 3+ on it can spawn a hunter / hydra / rhino at any of the helipads in the LSPD, FBI HQ or army base. SAPD, FBI and Army players that has rank 6+ can spawn them at any of those helipads. To spawn a predator you must meet the rank needed and be at verona beach pier. These vehicles can be only driven by police Leaders (rank 6+/3+ on special services) or admins on duty that are lvl 6+. Administrators and police leaders can grant anyone with special rights to drive these vehicles. (explained later).
+
+• New SWAT, Tactical and Special Forces System - Totally re-wrote of the old system, Police Leaders (SAPD, FBI, Army) can give rights of SWAT(SAPD), Tactical(FBI) and Special Forces(Army). Each one has special skins, weapons and vehicles. To enter on 'special' duty you must have Special rights(swat,tactical,spefor) and type /equip on the duty room of your police faction. Depending your rank (1-3) you can choose between the equips, light = 1, medium = 2, heavy = 3, snarpshooter = 1 (ranks requiered). Rank 3 of any of the special teams can give rights (later explained), spawn heavy aircraft and drive the heavy aircraft. Admins lvl 6 can set swat/specialf/tactical just in case. (this also was added for test purposes)
+
+• New organization - Instead of single files at scriptfiles, the server has now full organization at the folder LARP in the script files, there is a folder for properties, vehicles , logs , users , channels ,families, ck, bizzes, sbizzes, trunks, turfs, papers and others.
+
+• Spawning Options - When you disconnect or the server gets restarted you will be put back on your last location where you disconnected or when the server restarted. You can also change your spawnpoint to your house, your faction HQ, your family HQ or the last position you did /resetspawn on (or logged in).
+
+• Arrest re-wroten - Each department has it's own arrest point marked by two skulls at one desk near the cells, if you enter those skulls and you're not a faction member of the building you'll get teleported out... anyways Each department has it's own arrest, SAPD - /arrest || FBI /farrest || Army - /sarrest || each one with more time and bail allowed than the other.
+
+• Tutorial - I have played plenty Roleplaying servers and i haven't found nothing more annoying than the tutorial... It's now why i have made an interactive tutorial that can be made when one player wants to do it. Making a tutorial will give you an achievement (explained later) and will give you some money, The tutorial will be driving around The main areas, you will have to drive to certain located checkpoints and when you reach there it will explain you what is the location about. If you crash you will re-do the tutorial at the last step that you went in, you can pause it and continue it whenever you want.
+
+• Achievements - Making the things funnier, I've added achievements. These are the following:
+
+Achievement 0 "Silent Kill" - Kill someone with a Silenced Colt45.
+Achievement 1 "I can Shout" - Shout in the Chat for First Time.
+Achievement 2 "For the Team" - Talk in the /radio for first Time.
+Achievement 3 "Admin Loves You" - Get Blinded by an Admin.
+Achievement 4 "Admin Hates You" - Get Unblinded by an Admin.
+Achievement 5 "One Hour!" - Play One Hour.
+Achievement 6 "Five Hours!" - Play Five Hours.
+Achievement 7 "Regular Player" - Become a Regular Player.
+Achievement 8 "Regular Player Level 2" - Become a Regular Player lvl 2.
+Achievement 9 "Newbie Killer" - Kill One Person.
+Achievement 10 "Serial Killer" - Kill 75 Persons.
+Achievement 11 "Assassin" - Kill 150 Persons.
+Achievement 12 "Acme Dinamyte" - Get Exploded by an Admin.
+Achievement 13 "A black Hole" - Get Admin Killed.
+Achievement 14 "Illegal Weapon" - Buy a Weapon in the Ammunation.
+Achievement 15 "Fitness" - Train yourself in a Gym.
+Achievement 16 "At the End" - Finish your Tutorial.
+Achievement 17 "Finally, A Job!!!" - Get your First Job.
+Achievement 18 "Home Sweet Home" - Buy Your First House.
+Achievement 19 "A Dirty Mind" - Wank
+Achievement 20 "You're a Hooker, Sir" - Make a Blowjob.
+
+• New Factions - The fire department & the sons of anarchy; These are two new Factions (ID 12 & 13), Firemen have their HQ at Rodeo, They have cars and a duty system which gives them firemen weapons. Sons of anarchy have their HQ at dillimore, they have Ten bikes for theyselfes and a bar.
+
+• Freecop System - Like Argonath RPG, There is a free officer system, where any citizen can be atleast a security guard. If you wanna be a freecop, You must go to the City Hall, take the Officer lessons (optional) and then take the Officer Test, on it you will have to answer to ten questions, nine out of ten are needed to get a Police License. If you succeed, go to the LSPD Open the door with /opendoor or NUM1 in the Numpad and go to the lockers, then type /duty. Free Officers have minimal Rights, and only a few commands, not the same as the official LSPD.
+
+• Passport System - To have any license you must have a passport. Passports are given by admins or Any law enforcement player that is rank 4 or above. You cannot receive or buy any license without a passport, You can take a test at the City hall, if you pass it you will receive a passport. The test is free, if you fail, you will have to wait five hours to re-do the test.
+
+• Car System - There are 151 Cars Models that can be bought around the dealerships in San Andreas. There are Eight Dealerships, Grotti, Which sells sport Cars, Coutz And Shoutz, Which sells saloon cars, BikeZ, which sells any kind of motorbike and bicicle and specials, All TerrainZ, which sells any kind of all terrain vehicle and others, Airport Dealerhsip, which sells aircrafts, Bob's Lowriders, Which sells lowriders, Seaman, which sells Boats, And Big Trucks, which sells trucks and special vehicles. Dealership never ever runs out of cars, and the vehicles are unlimited, a player gets in the vehicle that he wants, Types /v buy and his car will get deliveried to SF Docks or LVAP depending the type. Any player can own two cars which are always spawned, and any player can own any model of cars, except emergency and public service cars.
+
+• Dynamic Houseing System - There are 653 houses set around Los Santos and the county, and more can be set simply with /sethouse. The price and level of the house is determined automatically depending the Area of the House: 
+
+* Commerce
+Level: +1 ; Price +17500
+* Conference Center
+Level: +1 ; Price +22500
+* Downtown Los Santos
+Level: +2 ; Price +25000
+* East Beach
+Level: 0 ; Price +6500
+* East Los Santos
+Level: 0 ; Price +7000
+* El Corona
+Level: 0 ; Price +45000
+* Ganton
+Level: 0 ; Price +3500
+* Glen Park
+Level: 0 ; Price +10000
+* Idlewood
+Level: 0 ; Price 0
+* Jefferson
+Level: 0 ; Price +13000
+* Las Colinas
+Level: 0 ; Price +1250
+* Marina
+Level: +2 ; Price +35000
+* Market
+Level: +1 ; Price +20000
+* Mullholland
+Level: +5 ; Price +85000
+* Pershing Square
+Level: +1 ; Price +55000
+* Richman
+Level: +6 ; Price +90000
+* Rodeo
+Level: +3 ; Price +65000
+* Santa Marina Beach
+Level: +3 ; Price +45000
+* Temple
+Level: +1 ; Price +32500
+* Verona Beach
+Level: +2 ; Price +25000
+* Vinewood
+Level: +3 ; Price +45000
+* Willowfield
+Level: 0 ; Price +17500
+* Blueberry:
+Level: 0 ; Price +7500
+* Dillimore:
+Level: +1 ; Price +14500
+* Montgomery
+Level: 0 ; Price +5000
+* Palomino Creek
+Level: +2 ; Price +25000
+
+The interior is defined randomly depending the type of house that you choose, it can be Style 0 (Apartment), 1 (Small House), 2 (Medium) and 3 (Big). Very big houses are to be setted manually.
+The final value is the sum of the Interior Price + The Area Price.
+
+
+• New bizz System - Like Houses, Bizzes can be set In Game with the command /setbizz, There are 16 Different types of Bizzes with Different Prices and Levels. There are around 30 Bizzes set by me, And There are no longer state owned bizzes.
+
+
+* Commerce
+Level: +3 ; Price +30000
+* Conference Center
+Level: +2 ; Price +52500
+* Downtown Los Santos
+Level: +4 ; Price +55000
+* East Beach
+Level: 0 ; Price +17500
+* East Los Santos
+Level: 0 ; Price +17000
+* El Corona
+Level: 0 ; Price +65000
+* Ganton
+Level: 0 ; Price +13500
+* Glen Park
+Level: 0 ; Price +30000
+* Idlewood
+Level: 0 ; Price 0
+* Jefferson
+Level: 0 ; Price +23000
+* Las Colinas
+Level: 0 ; Price +11250
+* Marina
+Level: +4 ; Price +55000
+* Market
+Level: +3 ; Price +40000
+* Mullholland
+Level: +9 ; Price +145000
+* Pershing Square
+Level: +4 ; Price +95000
+* Richman
+Level: +12 ; Price +157500
+* Rodeo
+Level: +6 ; Price +95000
+* Santa Marina Beach
+Level: +6 ; Price +85000
+* Temple
+Level: +3 ; Price +62500
+* Verona Beach
+Level: +4 ; Price +50000
+* Vinewood
+Level: +6 ; Price +75000
+* Willowfield
+Level: 0 ; Price +37500
+* Blueberry:
+Level: 0 ; Price +11500
+* Dillimore:
+Level: +2 ; Price +34500
+* Montgomery
+Level: 0 ; Price +10000
+* Palomino Creek
+Level: +4 ; Price +50000
+
+The interior is defined randomly depending the type of bizz that you choose (Only 24-7),
+The final value is the sum of the Interior Price + The Area Price.
+
+
+• Vehicles System - One player can no longer own 3 vehicles, the limit is now Two vehicles. The vehicle gets saved on position, color, PAINTJOB (new) and virtual world (new) and Components (New). Any player that is lvl 2 can own any car They just have to go to the dealership, get in on the wanted car and type /v buy, their new car will be imported at SF Docks or LV Airport.  Anyone can use your car if you haven't locked it. If you have locked it, remember to set a password! Because they can decode your vehicle password with a /decoder!
+There is now also a /getin and /getout command, This makes Planes (Shamal,AT-400,Andromeda) Now Enterable For Passports, Cars (Trailer1,Trailer4, SWAT Truck, FBI Truck, SWAT Enforcer, Some trucks) Enterable for more passangers (Seat Capacity 5), Helis (Leviathan, Raindance,Cargobob) Enterable for more passangers (Seat Capacity 10), Boats (Marquis, others) Enterable for passangers (Seat Capacity 8 ). /GETOUT must be used if there is two or more passangers in the car, Else the client will crash.
+
+• Car Lock System - There is also a totally unique Car Locking System. If you leave your car unlocked, ANYONE  may use your car freely. If you lock your car, The only way of other people driving is by  using a code. You must set your vehicle's security Code to something only you know. Anyone with a decoder can get in your car and decode your security code, this takes a while, But it's possible! The one that hacks your code will know your vehicle code and unless you change it, he can use it whenever he wants!   Faction cars has a random code every server restart, you can drive them if you get to undecode the code!
+
+• Licensing Faction - Re-added this faction, i don't know why it was disabled but it comes pretty usefull almost all the times.
+
+• GPS System - You can now do /gps in any car, if you haven't bought the GPS addon, you can trace only legal and basic positions. If you buy a GPS Addon (24/7) you can trace Illegal jobs positions AND any X Y Z that you type. Commands are /gps and /gpsfind. It will display you the distance and the direction that you have to take to get to the point.
+
+• Destruction Derby - Thanks to Argonath too for this idea, i've practically copied (i'm sorry but your script is too awesome) the destruction derby event, i made a few changes of course... Administrators lvl 4 can give anyone rights to be a DD manager. DD managers are allowed to use the doors, give/remove/check tickets of the players. To access the DD stadium you will need a ticket, that ticket is granted by the dd managers. If you are going to spectate you will need a spectation ticket and walk without a car to the entering point. to partake you'll need a partaking ticket. DD Managers and admins can access the stadium without a ticket. DD managers can blow up someone for "nascaring", make a dd countdown that only people on the stadium will see, dd message in console, and others things.
+
+• Anti bunny jump system - This should work Perfectly, but due to sa:mp lag this is sometimes buggy. Anyways, are you tired of bunny jumpers in your server? This feature will prevent bunny jumpers. How? OnPlayerKeyStateChange!, when a player jumps, a variable will be set to 1 and will be resetted to 0 after 3 seconds. If the player jumps again within the three seconds, the A-BJ will appear and will apply to the jumper an "fallback" anim that will throw him back. also a message will appear in his screen and admins also will be advised of bunny jumping. Administrators level 1338 are able to enable / disable this feature on /turn, it will be saved even after server restarts.
+
+• Regular players - Idea taken from all the CnR's that existed, anyways Every player will be a regular player after playing Certain amount of time; there are three kinds of regular players; Regular Player (1), Regular Player Level 2 (2), Platinum Regular (3); each one has custom pickups in the RPL (later explained). You can get To Regular Level 1 After playing 20 Hours; You can Get to Regular Level 2 After Playing 30 Hours; You can Get To Regular Level 3 After Playing 40 Hours. There is no way of fooling the timer.
+
+• Regular players Lounge - Regulars player will have a lounge where they have custom pickups and free drinks. Regular Player I Can Pickup a Parachute, and 150$; Regular Player II Can pickup a Parachute and $500; Regular Player III Can Pickup a Parachute, 666$ and a Body Armour.
+
+• Cop suspension system - Once again, idea taken from Argonath; For abusive cops or suspension of them, admins and cop leaders have /copsuspend and /copunsuspend. They will be suspended from cop duty and wont be allowed to do them until unsuspended.
+
+• Wanking - If you're a male you will be allowed to wank. This part is interactive, once you type /wank you will be allowed to Literally wank by pressing KEY_SPRINT (Space by SA Default). The more times you wank, the more HP you get at the end.
+
+• Use Dildo - If you're a female you will be allowed to use a dildo that can be bought at el corona sex shop. The bigger is the dildo, the bigger is the hp amount that you get at the end.
+
+• MOTD textdraws - MOTD Message for when you connect at the bottom. You can change it dinamically with /setmotd.
+
+• Weapon Training System - When you start to play, all your guns -except sniper- will have Skill 0, You will have to go to the Market ammunation to train the skills. You can only do one train each 15 minutes; Training costs money and doesn't gives much much skill. By statics, each train gives you atleast 35 of skill in the weapon that you choosed. In this way, you will have always something to spend on the money and something to do. (Your skill increases 2+ on the weapon that you used if you killed someone also)
+
+• Changing Name System - The last thing that has been took from Argonath, To change your name you will have to go to the city hall. It will cost you 10000$. Admins can also grant you with a shiftname right, It will save. A shiftname right means that you can change your name wherever you want for free, used on bad nicknames.
+
+• Newbie Chat - There is a /n Chat. To become a Helper you must be a Regular Player. When you automatically get promoted to regular player, you will be granted with Helper Rank; Also once you become Platinium regular, you will become a Master. If you get promoted to admin you will be automatically promoted to Administrator rank in /helper. Admins can also dinamically make helpers in game.
+
+• Re-Wrote of the Chat System - I've made it so logs gets called on the OnPlayerText, also if there is an admin on duty, on the chat and actions instead of displaying the name it will be * Admin, just like Stranger.. (e.x Admin Says: Hi!). If you flood it the anticheat will kick you!
+
+• Re-Wrote of the Speedo System - Thanks to Misa for the GetPlayerSpeed, the speedo now uses a textdraw, it also displays the fuel (Full dashboard). To have an speedo you will need to buy it at any 24/7, then enable it with /speedo. Fuel display is free, enable/disable with /fuel.
+
+• Dialogs on /equip, /buy - Added dialogs on /buy, /drink, /equip, /undercover, /agent, /soldier, its now easier to find the things and looks better.
+
+• Drunk system - Automatic check to see if you're drunk. SetPlayerDrunkLevel is used now. Cops can also check your drunk level with a breathlizer test.
+
+• New Criminal System - Criminals are now Orange. Criminals can give up to the police whenever they feel that they lost with the command /surrender (/sur), Cops can now /cuff them while on foot. When a criminal surrenders he gets frozen, and handsup animation gets applied and a darker orange gets applied to the name too, to prevent cops that think that they didn't gave up. Cops can /cuff the criminal to let him move and follow the cop. If the criminal doesn't follows the cop after /sur, cop can Kill him or report him to the administration, whatever he chooses. Cops can also /uncuff the criminal and let him Escape again. /uncuff will remove the "Surrender" status from the criminal.
+
+• Developers Area - Developers has now an area to chill out or just to stay there and do not get disturbed, IT has special vehicles that can be only accessed by developers and above (in case that someone dives in there) and an openable gate. Vehicles that are for developers are hydra, hunter, stretchs, fbi trucks, swat trucks, nrgs, mountain bikes, dumper, monster, combine, etc.
+
+• Spectating System - Renewed Spectating System, when you are spectating you will get automatically refreshed every 1.5 seconds. A text will appear (if the player is on foot) with the HP, Money and Armour. Else if the player is in a vehicle, it will appear vehicle id and car hp health. Once you are done of spectating, you can type /endspec <the id> and you will be teleported to the position that you typed /spec, and your weapons will be given back. So you do not need to go around marking or saving your weapons.
+
+• HP & Armour System - HP & Armour now Saves, making it useless the use of /q to get HP back. Your HP will save when the server Restarts (/upload, /gmx), when you disconnect/crash. But same as Position and weapons, it wont be saved on rcon gmx or sever clousure. Impossible to make it save, Sorry.
+
+• Death Messages - Death messages are now displayed to the administrator whenever a player kills another player, or a player dies. Every administrator knows when a player gets killed or dies, with the reason.
+
+• Entering Places - You now have to press the VEHICLE ENTERING key to enter a place (F and Enter by Default). Also, you have to Press Sprint Key (Space by Default) to get the info of a pickup if it says so.
+
+• Calendar - The main idea came up from the Beta tester TheToni, he released a simple calendar script, then he showed me it. We decided to make it better, the main idea was to set the events automatically depending the month and the day, but due to a miss calculation on the time, we couldn't do it, so we ended up with the current system, which highlights current date, displays the month and the date. Administrators 4+ can set events at the calendar, they have 4 slots to make them, an example is /setevent 1 ~r~17th August ~n~~l~-<insert event here>, if the setevent is correctly used, you'll have a perfect calendar with upcoming events!
+
+
+• Lots More - There are also other things that maybe i didn't mentioned, check in game and maybe you discover lots of things

@@ -1,0 +1,1022 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c, (C)2005-2010 SA-MP Team
+
+[11:21:15] 
+[11:21:15] Server Plugins
+[11:21:15] --------------
+[11:21:15]  Loading plugin: streamer
+[11:21:15] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[11:21:15]   Loaded.
+[11:21:15]  Loaded 1 plugins.
+
+[11:21:15] 
+[11:21:15] Ban list
+[11:21:15] --------
+[11:21:15]  Loaded: samp.ban
+[11:21:15] 
+[11:21:15] 
+[11:21:15] Filter Scripts
+[11:21:15] ---------------
+[11:21:15]   Loading filter script 'DropGun1.amx'...
+[11:21:15] 
+--------------------------------------
+[11:21:15] Drop Gun FS by a fat guy.....Loaded!!!
+[11:21:15] --------------------------------------
+
+[11:21:15]   Loading filter script 'PoliceLight.amx'...
+[11:21:15]  Filterscript Tint system 
+[11:21:15]  made by Srdjan loaded  
+[11:21:15]   Loaded 2 filter scripts.
+
+[11:21:15] [SCRIPT]: Loaded Cars
+[11:21:22] [SCRIPT]: Loaded Houses
+[11:21:22] [SCRIPT]: Loaded Bizzes
+[11:21:22] [SCRIPT]: Loaded S-Bizzes
+[11:21:22] weburl = "www.sa-mp.com"  (string)
+[11:21:22] [SCRIPT]: Loaded 1524 Objects
+[11:21:22] [SCRIPT]: Loaded 921 Pickups
+[11:21:23]  
+[11:21:23]            Pois0n Roleplay 
+[11:21:23] _________________________________________
+[11:21:23]           By:    
+[11:21:23]  
+[11:21:23] Number of vehicle models: 181
+[11:21:45] Incoming connection: 127.0.0.1:1243
+[11:21:45] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[11:22:02] (31/8/2011)[11:22:2] Emily_Brown payed $0 to enter biz 1
+[11:22:29] [PETER]: Emily_Brown (0) is possibly bunny jumping, Go check him!!
+[11:22:50] [ADMIN]: Emily_Brown Has Restarted The Server
+[11:22:56] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[11:23:06] [SCRIPT]: Loaded Cars
+[11:23:17] [SCRIPT]: Loaded Houses
+[11:23:17] [SCRIPT]: Loaded Bizzes
+[11:23:17] [SCRIPT]: Loaded S-Bizzes
+[11:23:17] weburl = "www.sa-mp.com"  (string)
+[11:23:17] [SCRIPT]: Loaded 1524 Objects
+[11:23:17] [SCRIPT]: Loaded 921 Pickups
+[11:23:17]  
+[11:23:17]            Pois0n Roleplay 
+[11:23:17] _________________________________________
+[11:23:17]           By:    
+[11:23:17]  
+[11:23:17] Number of vehicle models: 181
+[11:23:36] [ADMIN]: Emily_Brown has turned off the Anti AFK detection.
+[11:23:41] [ADMIN]: Emily_Brown has turned off the High ping kicker.
+[11:23:44] [ADMIN]: Emily_Brown has turned on the High ping kicker.
+[11:23:46] [ADMIN]: Emily_Brown has turned off the High ping kicker.
+[11:23:48] [ADMIN]: Emily_Brown has turned off the anti flood kicker.
+[11:23:53] [ADMIN]: Emily_Brown has turned off the Bunny jump Detection.
+[11:23:55] [ADMIN]: Emily_Brown has turned on the Weapon hacks detection.
+[11:23:57] [ADMIN]: Emily_Brown has turned off the Weapon hacks detection.
+[11:23:59] [ADMIN]: Emily_Brown has turned off the Interior hacks detection.
+[11:24:01] [ADMIN]: Emily_Brown has turned off the Jetpack hacks detection.
+[11:24:03] [ADMIN]: Emily_Brown has turned off the Money hacks detection.
+[11:24:06] [ADMIN]: Emily_Brown has turned on the Anti AFK detection.
+[11:24:07] [ADMIN]: Emily_Brown has turned off the Anti AFK detection.
+[11:24:10] [ADMIN]: Emily_Brown has turned off the Anti Non-RP Names detection.
+[11:24:13] [ADMIN]: Emily_Brown has turned on the Driver DB Detection.
+[11:24:16] [ADMIN]: Emily_Brown has turned off the Driver DB Detection.
+[11:24:18] [ADMIN]: Emily_Brown has turned off the Anti Fake death Detection.
+[11:24:20] [ADMIN]: Emily_Brown has turned on the High ping kicker.
+[11:24:23] [ADMIN]: Emily_Brown has turned off the High ping kicker.
+[11:24:32] [ADMIN]: Emily_Brown Has Restarted The Server
+[11:24:36] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[11:24:45] [SCRIPT]: Loaded Cars
+[11:24:55] [SCRIPT]: Loaded Houses
+[11:24:56] [SCRIPT]: Loaded Bizzes
+[11:24:56] [SCRIPT]: Loaded S-Bizzes
+[11:24:56] weburl = "www.sa-mp.com"  (string)
+[11:24:56] [SCRIPT]: Loaded 1524 Objects
+[11:24:56] [SCRIPT]: Loaded 921 Pickups
+[11:24:56]  
+[11:24:56]            Pois0n Roleplay 
+[11:24:56] _________________________________________
+[11:24:56]           By:    
+[11:24:56]  
+[11:24:56] Number of vehicle models: 181
+[11:26:40] [ADMIN]: Emily_Brown Has Restarted The Server
+[11:26:45] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[11:26:54] [SCRIPT]: Loaded Cars
+[11:26:55] [SCRIPT]: Loaded Houses
+[11:26:55] [SCRIPT]: Loaded Bizzes
+[11:26:55] [SCRIPT]: Loaded S-Bizzes
+[11:26:55] weburl = "www.sa-mp.com"  (string)
+[11:26:55] [SCRIPT]: Loaded 1524 Objects
+[11:26:55] [SCRIPT]: Loaded 129 Pickups
+[11:26:55]  
+[11:26:55]            Pois0n Roleplay 
+[11:26:55] _________________________________________
+[11:26:55]           By:    
+[11:26:55]  
+[11:26:55] Number of vehicle models: 181
+[11:27:21] [ADMIN]: Emily_Brown has Teleported to The Front of the House Number: [1].
+[11:27:28] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[11:27:36] [part] Emily_Brown has left the server (0:1)
+[11:32:01] --- Server Shutting Down.
+[11:32:01] Drop Gun FS by a fat guy.....Unloaded :( 
+[11:32:01] 
+--------------------------------------
+[11:32:01]  Real Vehicle Lights UNLOADED
+[11:32:01] --------------------------------------
+
+[11:32:01] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[11:34:36] 
+[11:34:36] Server Plugins
+[11:34:36] --------------
+[11:34:36]  Loaded 0 plugins.
+
+[11:34:36] 
+[11:34:36] Ban list
+[11:34:36] --------
+[11:34:36]  Loaded: samp.ban
+[11:34:36] 
+[11:34:36] 
+[11:34:36] Filter Scripts
+[11:34:36] ---------------
+[11:34:36]   Loading filter script 'DropGun1.amx'...
+[11:34:36]   Loading filter script 'PoliceLight.amx'...
+[11:34:36]  Filterscript Tint system 
+[11:34:36]  made by Srdjan loaded  
+[11:34:36]   Loaded 2 filter scripts.
+
+[11:34:37] Script[gamemodes/RolePlay.amx]: Run time error 19: "File or function is not found"
+[11:34:37] Number of vehicle models: 0
+[11:34:39] --- Server Shutting Down.
+[11:34:39] 
+--------------------------------------
+[11:34:39]  Real Vehicle Lights UNLOADED
+[11:34:39] --------------------------------------
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[11:34:51] 
+[11:34:51] Server Plugins
+[11:34:51] --------------
+[11:34:51]  Loading plugin: streamer
+[11:34:51] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[11:34:51]   Loaded.
+[11:34:51]  Loaded 1 plugins.
+
+[11:34:51] 
+[11:34:51] Ban list
+[11:34:51] --------
+[11:34:51]  Loaded: samp.ban
+[11:34:51] 
+[11:34:51] 
+[11:34:51] Filter Scripts
+[11:34:51] ---------------
+[11:34:51]   Loading filter script 'DropGun1.amx'...
+[11:34:51] 
+--------------------------------------
+[11:34:51] Drop Gun FS by a fat guy.....Loaded!!!
+[11:34:51] --------------------------------------
+
+[11:34:51]   Loading filter script 'PoliceLight.amx'...
+[11:34:51]  Filterscript Tint system 
+[11:34:51]  made by Srdjan loaded  
+[11:34:51]   Loaded 2 filter scripts.
+
+[11:34:51] [SCRIPT]: Loaded Cars
+[11:34:59] [SCRIPT]: Loaded Houses
+[11:34:59] [SCRIPT]: Loaded Bizzes
+[11:34:59] [SCRIPT]: Loaded S-Bizzes
+[11:34:59] weburl = "www.sa-mp.com"  (string)
+[11:34:59] [SCRIPT]: Loaded 1524 Objects
+[11:34:59] [SCRIPT]: Loaded 921 Pickups
+[11:34:59]  
+[11:34:59]            Pois0n Roleplay 
+[11:34:59] _________________________________________
+[11:34:59]           By:    
+[11:34:59]  
+[11:34:59] Number of vehicle models: 181
+[11:35:14] Incoming connection: 127.0.0.1:2702
+[11:35:15] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[11:35:29] [INFO]: Emily_Brown Has left the Server. [Leaving]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[11:35:54] 
+[11:35:54] Server Plugins
+[11:35:54] --------------
+[11:35:54]  Loading plugin: streamer
+[11:35:54] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[11:35:54]   Loaded.
+[11:35:54]  Loaded 1 plugins.
+
+[11:35:54] 
+[11:35:54] Ban list
+[11:35:54] --------
+[11:35:54]  Loaded: samp.ban
+[11:35:54] 
+[11:35:54] 
+[11:35:54] Filter Scripts
+[11:35:54] ---------------
+[11:35:54]   Loading filter script 'DropGun1.amx'...
+[11:35:54] 
+--------------------------------------
+[11:35:54] Drop Gun FS by a fat guy.....Loaded!!!
+[11:35:54] --------------------------------------
+
+[11:35:54]   Loading filter script 'PoliceLight.amx'...
+[11:35:54]  Filterscript Tint system 
+[11:35:54]  made by Srdjan loaded  
+[11:35:54]   Loaded 2 filter scripts.
+
+[11:35:54] [SCRIPT]: Loaded Cars
+[11:36:02] [SCRIPT]: Loaded Houses
+[11:36:02] [SCRIPT]: Loaded Bizzes
+[11:36:02] [SCRIPT]: Loaded S-Bizzes
+[11:36:03] weburl = "www.sa-mp.com"  (string)
+[11:36:03] [SCRIPT]: Loaded 1524 Objects
+[11:36:03] [SCRIPT]: Loaded 921 Pickups
+[11:36:03]  
+[11:36:03]            Pois0n Roleplay 
+[11:36:03] _________________________________________
+[11:36:03]           By:    
+[11:36:03]  
+[11:36:03] Number of vehicle models: 181
+[11:36:26] Incoming connection: 127.0.0.1:2813
+[11:36:26] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[11:37:01] [INFO]: Emily_Brown Has left the Server. [Leaving]
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[11:41:21] 
+[11:41:21] Server Plugins
+[11:41:21] --------------
+[11:41:21]  Loading plugin: streamer
+[11:41:21] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[11:41:21]   Loaded.
+[11:41:21]  Loaded 1 plugins.
+
+[11:41:21] 
+[11:41:21] Ban list
+[11:41:21] --------
+[11:41:21]  Loaded: samp.ban
+[11:41:21] 
+[11:41:21] 
+[11:41:21] Filter Scripts
+[11:41:21] ---------------
+[11:41:21]   Loading filter script 'DropGun1.amx'...
+[11:41:21] 
+--------------------------------------
+[11:41:21] Drop Gun FS by a fat guy.....Loaded!!!
+[11:41:21] --------------------------------------
+
+[11:41:21]   Loading filter script 'PoliceLight.amx'...
+[11:41:21]  Filterscript Tint system 
+[11:41:21]  made by Srdjan loaded  
+[11:41:21]   Loaded 2 filter scripts.
+
+[11:41:21] [SCRIPT]: Loaded Cars
+[11:41:29] [SCRIPT]: Loaded Houses
+[11:41:29] [SCRIPT]: Loaded Bizzes
+[11:41:29] [SCRIPT]: Loaded S-Bizzes
+[11:41:29] weburl = "www.sa-mp.com"  (string)
+[11:41:29] [SCRIPT]: Loaded 1524 Objects
+[11:41:29] [SCRIPT]: Loaded 921 Pickups
+[11:41:29]  
+[11:41:29]            Pois0n Roleplay 
+[11:41:29] _________________________________________
+[11:41:29]           By:    
+[11:41:29]  
+[11:41:29] Number of vehicle models: 181
+[11:41:40] Incoming connection: 127.0.0.1:3271
+[11:41:40] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[11:42:23] [ADMIN]: Emily_Brown Has Restarted The Server
+[11:42:28] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[11:42:37] [SCRIPT]: Loaded Cars
+[11:42:47] [SCRIPT]: Loaded Houses
+[11:42:47] [SCRIPT]: Loaded Bizzes
+[11:42:47] [SCRIPT]: Loaded S-Bizzes
+[11:42:47] weburl = "www.sa-mp.com"  (string)
+[11:42:47] [SCRIPT]: Loaded 1524 Objects
+[11:42:47] [SCRIPT]: Loaded 921 Pickups
+[11:42:47]  
+[11:42:47]            Pois0n Roleplay 
+[11:42:47] _________________________________________
+[11:42:47]           By:    
+[11:42:47]  
+[11:42:47] Number of vehicle models: 181
+[11:45:51] [ADMIN]: Emily_Brown Has Spawned a NRG-500 (522) [515] At His Position (Idlewood, Los Santos).
+[11:52:42] [ADMIN]: Emily_Brown has set Emily_Brown (0) job to id [13].
+[11:52:44] [ADMIN]: Emily_Brown has set Emily_Brown (0) job to id [14].
+[12:21:25] [chat] [Emily_Brown]: 5
+[12:24:26] [chat] [Emily_Brown]: 3
+[12:42:25] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[12:42:32] [part] Emily_Brown has left the server (0:1)
+[12:53:40] Incoming connection: 127.0.0.1:4899
+[12:53:40] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[13:05:40] [ADMIN]: Emily_Brown Has Restarted The Server
+[13:05:44] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[13:05:52] [SCRIPT]: Loaded Cars
+[13:06:00] [SCRIPT]: Loaded Houses
+[13:06:00] [SCRIPT]: Loaded Bizzes
+[13:06:00] [SCRIPT]: Loaded S-Bizzes
+[13:06:00] weburl = "www.sa-mp.com"  (string)
+[13:06:00] [SCRIPT]: Loaded 1524 Objects
+[13:06:00] [SCRIPT]: Loaded 921 Pickups
+[13:06:00]  
+[13:06:00]            Pois0n Roleplay 
+[13:06:00] _________________________________________
+[13:06:00]           By:    
+[13:06:00]  
+[13:06:00] Number of vehicle models: 181
+[13:31:53] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[13:32:00] [part] Emily_Brown has left the server (0:1)
+[13:32:00] --- Server Shutting Down.
+[13:32:00] Drop Gun FS by a fat guy.....Unloaded :( 
+[13:32:00] 
+--------------------------------------
+[13:32:00]  Real Vehicle Lights UNLOADED
+[13:32:00] --------------------------------------
+
+[13:32:00] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[15:05:07] 
+[15:05:07] Server Plugins
+[15:05:07] --------------
+[15:05:07]  Loading plugin: streamer
+[15:05:07] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[15:05:07]   Loaded.
+[15:05:07]  Loaded 1 plugins.
+
+[15:05:07] 
+[15:05:07] Ban list
+[15:05:07] --------
+[15:05:07]  Loaded: samp.ban
+[15:05:07] 
+[15:05:07] 
+[15:05:07] Filter Scripts
+[15:05:07] ---------------
+[15:05:07]   Loading filter script 'DropGun1.amx'...
+[15:05:07] 
+--------------------------------------
+[15:05:07] Drop Gun FS by a fat guy.....Loaded!!!
+[15:05:07] --------------------------------------
+
+[15:05:07]   Loading filter script 'PoliceLight.amx'...
+[15:05:07]  Filterscript Tint system 
+[15:05:07]  made by Srdjan loaded  
+[15:05:07]   Loaded 2 filter scripts.
+
+[15:05:07] [SCRIPT]: Loaded Cars
+[15:05:16] [SCRIPT]: Loaded Houses
+[15:05:16] [SCRIPT]: Loaded Bizzes
+[15:05:16] [SCRIPT]: Loaded S-Bizzes
+[15:05:16] weburl = "www.sa-mp.com"  (string)
+[15:05:16] [SCRIPT]: Loaded 1524 Objects
+[15:05:16] [SCRIPT]: Loaded 921 Pickups
+[15:05:16]  
+[15:05:16]            Pois0n Roleplay 
+[15:05:16] _________________________________________
+[15:05:16]           By:    
+[15:05:16]  
+[15:05:16] Number of vehicle models: 181
+[15:05:35] Incoming connection: 127.0.0.1:4542
+[15:05:35] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[15:06:02] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[15:06:02] [part] Emily_Brown has left the server (0:1)
+[15:06:33] Incoming connection: 127.0.0.1:4590
+[15:06:33] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[15:06:40] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[15:06:40] [part] Emily_Brown has left the server (0:1)
+[15:08:21] --- Server Shutting Down.
+[15:08:21] Drop Gun FS by a fat guy.....Unloaded :( 
+[15:08:21] 
+--------------------------------------
+[15:08:21]  Real Vehicle Lights UNLOADED
+[15:08:21] --------------------------------------
+
+[15:08:21] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[15:16:06] 
+[15:16:06] Server Plugins
+[15:16:06] --------------
+[15:16:06]  Loading plugin: streamer
+[15:16:06] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[15:16:06]   Loaded.
+[15:16:06]  Loaded 1 plugins.
+
+[15:16:06] 
+[15:16:06] Ban list
+[15:16:06] --------
+[15:16:06]  Loaded: samp.ban
+[15:16:06] 
+[15:16:06] 
+[15:16:06] Filter Scripts
+[15:16:06] ---------------
+[15:16:06]   Loading filter script 'DropGun1.amx'...
+[15:16:06] 
+--------------------------------------
+[15:16:06] Drop Gun FS by a fat guy.....Loaded!!!
+[15:16:06] --------------------------------------
+
+[15:16:06]   Loading filter script 'PoliceLight.amx'...
+[15:16:06]  Filterscript Tint system 
+[15:16:06]  made by Srdjan loaded  
+[15:16:06]   Loaded 2 filter scripts.
+
+[15:16:06] [SCRIPT]: Loaded Cars
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[15:16:29] 
+[15:16:29] Server Plugins
+[15:16:29] --------------
+[15:16:29]  Loading plugin: streamer
+[15:16:29] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[15:16:29]   Loaded.
+[15:16:29]  Loaded 1 plugins.
+
+[15:16:29] 
+[15:16:29] Ban list
+[15:16:29] --------
+[15:16:29]  Loaded: samp.ban
+[15:16:29] 
+[15:16:29] 
+[15:16:29] Filter Scripts
+[15:16:29] ---------------
+[15:16:29]   Loading filter script 'neonsys.amx'...
+[15:16:30]   Loading filter script 'DropGun1.amx'...
+[15:16:30] 
+--------------------------------------
+[15:16:30] Drop Gun FS by a fat guy.....Loaded!!!
+[15:16:30] --------------------------------------
+
+[15:16:30]   Loading filter script 'PoliceLight.amx'...
+[15:16:30]  Filterscript Tint system 
+[15:16:30]  made by Srdjan loaded  
+[15:16:30]   Loaded 3 filter scripts.
+
+[15:16:30] [SCRIPT]: Loaded Cars
+[15:16:38] [SCRIPT]: Loaded Houses
+[15:16:38] [SCRIPT]: Loaded Bizzes
+[15:16:38] [SCRIPT]: Loaded S-Bizzes
+[15:16:38] weburl = "www.sa-mp.com"  (string)
+[15:16:38] [SCRIPT]: Loaded 1524 Objects
+[15:16:38] [SCRIPT]: Loaded 921 Pickups
+[15:16:38]  
+[15:16:38]            Pois0n Roleplay 
+[15:16:38] _________________________________________
+[15:16:38]           By:    
+[15:16:38]  
+[15:16:38] Number of vehicle models: 181
+[15:16:58] Incoming connection: 127.0.0.1:1538
+[15:16:58] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[15:17:07] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[15:17:07] [part] Emily_Brown has left the server (0:1)
+[15:17:11] --- Server Shutting Down.
+[15:17:11]   Filter script 'neonsys.amx' unloaded.
+[15:17:12]   Filterscript 'neonsys.amx' loaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[15:19:12] 
+[15:19:12] Server Plugins
+[15:19:12] --------------
+[15:19:12]  Loading plugin: streamer
+[15:19:12] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[15:19:12]   Loaded.
+[15:19:12]  Loaded 1 plugins.
+
+[15:19:12] 
+[15:19:12] Ban list
+[15:19:12] --------
+[15:19:12]  Loaded: samp.ban
+[15:19:12] 
+[15:19:12] 
+[15:19:12] Filter Scripts
+[15:19:12] ---------------
+[15:19:12]   Loading filter script 'neonsys.amx'...
+[15:19:13]   Loading filter script 'DropGun1.amx'...
+[15:19:13] 
+--------------------------------------
+[15:19:13] Drop Gun FS by a fat guy.....Loaded!!!
+[15:19:13] --------------------------------------
+
+[15:19:13]   Loading filter script 'PoliceLight.amx'...
+[15:19:13]  Filterscript Tint system 
+[15:19:13]  made by Srdjan loaded  
+[15:19:13]   Loaded 3 filter scripts.
+
+[15:19:13] [SCRIPT]: Loaded Cars
+[15:19:21] [SCRIPT]: Loaded Houses
+[15:19:21] [SCRIPT]: Loaded Bizzes
+[15:19:21] [SCRIPT]: Loaded S-Bizzes
+[15:19:21] weburl = "www.sa-mp.com"  (string)
+[15:19:21] [SCRIPT]: Loaded 1524 Objects
+[15:19:21] [SCRIPT]: Loaded 921 Pickups
+[15:19:21]  
+[15:19:22]            Pois0n Roleplay 
+[15:19:22] _________________________________________
+[15:19:22]           By:    
+[15:19:22]  
+[15:19:22] Number of vehicle models: 181
+[15:19:35] Incoming connection: 127.0.0.1:1628
+[15:19:35] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[15:19:52] [ADMIN]: Emily_Brown has set Emily_Brown (0)'s money to $1000000.
+[15:20:06] [ADMIN]: Emily_Brown Has Teleported Himself to GROTTI.
+[15:20:23] [ADMIN]: Emily_Brown Has Teleported Himself to Los Santos.
+[15:20:33] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [519] At His Position (Pershing Square, Los Santos).
+[15:21:17] [ADMIN]: Emily_Brown has given a passport to Emily_Brown.
+[15:21:46] [ADMIN]: Emily_Brown Has Teleported Himself to Coutz And Shoutz.
+[15:21:48] [ADMIN]: Emily_Brown Has Teleported Himself to GROTTI.
+[15:22:15] [ADMIN]: Emily_Brown Has Teleported Himself to Boats Dealership.
+[15:23:07] [ADMIN]: Emily_Brown Has Teleported Himself to GROTTI.
+[15:23:25] [ADMIN] Emily_Brown has changed everyone's weather to 2.
+[15:25:08] (31/8/2011)[15:25:8] Emily_Brown payed $0 to enter biz 1
+[15:29:19] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[15:29:27] [part] Emily_Brown has left the server (0:1)
+[15:29:27] --- Server Shutting Down.
+[15:29:27]   Filter script 'neonsys.amx' unloaded.
+[15:29:29]   Filterscript 'neonsys.amx' loaded.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[19:16:55] 
+[19:16:55] Server Plugins
+[19:16:55] --------------
+[19:16:55]  Loading plugin: streamer
+[19:16:55] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[19:16:55]   Loaded.
+[19:16:55]  Loaded 1 plugins.
+
+[19:16:55] 
+[19:16:55] Ban list
+[19:16:55] --------
+[19:16:55]  Loaded: samp.ban
+[19:16:55] 
+[19:16:55] 
+[19:16:55] Filter Scripts
+[19:16:55] ---------------
+[19:16:55]   Loading filter script 'DropGun1.amx'...
+[19:16:55] 
+--------------------------------------
+[19:16:55] Drop Gun FS by a fat guy.....Loaded!!!
+[19:16:55] --------------------------------------
+
+[19:16:55]   Loading filter script 'PoliceLight.amx'...
+[19:16:55]  Filterscript Tint system 
+[19:16:55]  made by Srdjan loaded  
+[19:16:55]   Loaded 2 filter scripts.
+
+[19:16:55] [SCRIPT]: Loaded Cars
+[19:17:06] [SCRIPT]: Loaded Houses
+[19:17:06] [SCRIPT]: Loaded Bizzes
+[19:17:06] [SCRIPT]: Loaded S-Bizzes
+[19:17:06] weburl = "www.sa-mp.com"  (string)
+[19:17:06] [SCRIPT]: Loaded 1524 Objects
+[19:17:06] [SCRIPT]: Loaded 921 Pickups
+[19:17:07]  
+[19:17:07]            Pois0n Roleplay 
+[19:17:07] _________________________________________
+[19:17:07]           By:    
+[19:17:07]  
+[19:17:07] Number of vehicle models: 181
+[19:17:30] Incoming connection: 127.0.0.1:2061
+[19:17:30] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[19:17:50] [ADMIN]: Emily_Brown has set Emily_Brown's (0) hp to 100.
+[19:17:59] (31/8/2011)[19:17:59] Emily_Brown payed $0 to enter biz 1
+[19:20:01] [ADMIN]: Emily_Brown Has Given Control of the Faction 4 to Emily_Brown.
+[19:20:02] [ADMIN]: Emily_Brown Has Given Control of the Faction 0 to Emily_Brown.
+[19:20:03] [ADMIN]: Emily_Brown Has Given Control of the Faction 5 to Emily_Brown.
+[19:24:42] --- Server Shutting Down.
+[19:24:42] Drop Gun FS by a fat guy.....Unloaded :( 
+[19:24:42] 
+--------------------------------------
+[19:24:42]  Real Vehicle Lights UNLOADED
+[19:24:42] --------------------------------------
+
+[19:24:42] [part] Emily_Brown has left the server (0:0)
+[19:24:42] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[19:29:35] 
+[19:29:35] Server Plugins
+[19:29:35] --------------
+[19:29:35]  Loading plugin: streamer
+[19:29:35] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[19:29:35]   Loaded.
+[19:29:35]  Loaded 1 plugins.
+
+[19:29:35] 
+[19:29:35] Ban list
+[19:29:35] --------
+[19:29:35]  Loaded: samp.ban
+[19:29:35] 
+[19:29:35] 
+[19:29:35] Filter Scripts
+[19:29:35] ---------------
+[19:29:35]   Loading filter script 'DropGun1.amx'...
+[19:29:35] 
+--------------------------------------
+[19:29:35] Drop Gun FS by a fat guy.....Loaded!!!
+[19:29:35] --------------------------------------
+
+[19:29:35]   Loading filter script 'PoliceLight.amx'...
+[19:29:35]  Filterscript Tint system 
+[19:29:35]  made by Srdjan loaded  
+[19:29:35]   Loaded 2 filter scripts.
+
+[19:29:35] [SCRIPT]: Loaded Cars
+[19:29:43] [SCRIPT]: Loaded Houses
+[19:29:43] [SCRIPT]: Loaded Bizzes
+[19:29:43] [SCRIPT]: Loaded S-Bizzes
+[19:29:43] weburl = "0"  (string)
+[19:29:43] [SCRIPT]: Loaded 1524 Objects
+[19:29:43] [SCRIPT]: Loaded 921 Pickups
+[19:29:43]  
+[19:29:43]            Pois0n Roleplay 
+[19:29:43] _________________________________________
+[19:29:43]           By:    
+[19:29:43]  
+[19:29:43] Number of vehicle models: 181
+[19:30:01] Incoming connection: 127.0.0.1:2125
+[19:30:01] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[19:30:17] [ADMIN]: Emily_Brown has set Emily_Brown's (0) hp to 100.
+[19:30:33] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Idlewood, Los Santos).
+[19:31:47] [ADMIN]: Emily_Brown Has Restarted The Server
+[19:31:51] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[19:31:59] [SCRIPT]: Loaded Cars
+[19:32:09] [SCRIPT]: Loaded Houses
+[19:32:09] [SCRIPT]: Loaded Bizzes
+[19:32:09] [SCRIPT]: Loaded S-Bizzes
+[19:32:09] weburl = "0"  (string)
+[19:32:09] [SCRIPT]: Loaded 1524 Objects
+[19:32:09] [SCRIPT]: Loaded 921 Pickups
+[19:32:10]  
+[19:32:10]            Pois0n Roleplay 
+[19:32:10] _________________________________________
+[19:32:10]           By:    
+[19:32:10]  
+[19:32:10] Number of vehicle models: 181
+[19:32:23] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Willowfield, Los Santos).
+[19:34:21] [ADMIN]: Emily_Brown Has Restarted The Server
+[19:34:25] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[19:34:33] [SCRIPT]: Loaded Cars
+[19:34:41] [SCRIPT]: Loaded Houses
+[19:34:41] [SCRIPT]: Loaded Bizzes
+[19:34:41] [SCRIPT]: Loaded S-Bizzes
+[19:34:41] weburl = "0"  (string)
+[19:34:41] [SCRIPT]: Loaded 1524 Objects
+[19:34:41] [SCRIPT]: Loaded 921 Pickups
+[19:34:41]  
+[19:34:41]            Pois0n Roleplay 
+[19:34:41] _________________________________________
+[19:34:41]           By:    
+[19:34:41]  
+[19:34:41] Number of vehicle models: 181
+[19:35:10] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Idlewood, Los Santos).
+[19:38:05] [ADMIN]: Emily_Brown Has Given Control of the Faction 1 to Emily_Brown.
+[19:39:23] [ADMIN]: Emily_Brown Has Spawned a NRG-500 (522) [521] At His Position (LS International, Los Santos).
+[19:47:53] [ADMIN]: Emily_Brown Has Given Control of the Faction 4 to Emily_Brown.
+[19:56:32] [ADMIN]: Emily_Brown Has Given Control of the Faction 2 to Emily_Brown.
+[19:57:17] [ADMIN] Emily_Brown has changed everyone's weather to 2.
+[19:57:32] [ADMIN] Emily_Brown has changed everyone's weather to 2.
+[19:59:10] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [522] At His Position (Commerce, Los Santos).
+[20:10:36] --- Server Shutting Down.
+[20:10:36] Drop Gun FS by a fat guy.....Unloaded :( 
+[20:10:36] 
+--------------------------------------
+[20:10:36]  Real Vehicle Lights UNLOADED
+[20:10:36] --------------------------------------
+
+[20:10:36] [part] Emily_Brown has left the server (0:0)
+[20:10:36] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[20:11:56] 
+[20:11:56] Server Plugins
+[20:11:56] --------------
+[20:11:56]  Loading plugin: streamer
+[20:11:56] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[20:11:56]   Loaded.
+[20:11:56]  Loaded 1 plugins.
+
+[20:11:56] 
+[20:11:56] Ban list
+[20:11:56] --------
+[20:11:56]  Loaded: samp.ban
+[20:11:56] 
+[20:11:56] 
+[20:11:56] Filter Scripts
+[20:11:56] ---------------
+[20:11:56]   Loading filter script 'DropGun1.amx'...
+[20:11:56] 
+--------------------------------------
+[20:11:56] Drop Gun FS by a fat guy.....Loaded!!!
+[20:11:56] --------------------------------------
+
+[20:11:56]   Loading filter script 'PoliceLight.amx'...
+[20:11:56]  Filterscript Tint system 
+[20:11:56]  made by Srdjan loaded  
+[20:11:56]   Loaded 2 filter scripts.
+
+[20:11:56] [SCRIPT]: Loaded Cars
+[20:12:05] [SCRIPT]: Loaded Houses
+[20:12:05] [SCRIPT]: Loaded Bizzes
+[20:12:05] [SCRIPT]: Loaded S-Bizzes
+[20:12:05] weburl = "0"  (string)
+[20:12:05] [SCRIPT]: Loaded 1524 Objects
+[20:12:05] [SCRIPT]: Loaded 921 Pickups
+[20:12:06]  
+[20:12:06]            Pois0n Roleplay 
+[20:12:06] _________________________________________
+[20:12:06]           By:    
+[20:12:06]  
+[20:12:06] Number of vehicle models: 181
+[20:12:21] Incoming connection: 127.0.0.1:2498
+[20:12:21] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[20:12:36] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Idlewood, Los Santos).
+[20:14:34] [ADMIN]: Emily_Brown Has Teleported Himself to Los Santos.
+[20:22:22] --- Server Shutting Down.
+[20:22:22] Drop Gun FS by a fat guy.....Unloaded :( 
+[20:22:22] 
+--------------------------------------
+[20:22:22]  Real Vehicle Lights UNLOADED
+[20:22:22] --------------------------------------
+
+[20:22:22] [part] Emily_Brown has left the server (0:0)
+[20:22:22] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[20:22:31] 
+[20:22:31] Server Plugins
+[20:22:31] --------------
+[20:22:31]  Loading plugin: streamer
+[20:22:31] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[20:22:31]   Loaded.
+[20:22:31]  Loaded 1 plugins.
+
+[20:22:31] 
+[20:22:31] Ban list
+[20:22:31] --------
+[20:22:31]  Loaded: samp.ban
+[20:22:31] 
+[20:22:31] 
+[20:22:31] Filter Scripts
+[20:22:31] ---------------
+[20:22:31]   Loading filter script 'DropGun1.amx'...
+[20:22:31] 
+--------------------------------------
+[20:22:31] Drop Gun FS by a fat guy.....Loaded!!!
+[20:22:31] --------------------------------------
+
+[20:22:31]   Loading filter script 'PoliceLight.amx'...
+[20:22:31]  Filterscript Tint system 
+[20:22:31]  made by Srdjan loaded  
+[20:22:31]   Loaded 2 filter scripts.
+
+[20:22:31] [SCRIPT]: Loaded Cars
+[20:22:38] [SCRIPT]: Loaded Houses
+[20:22:38] [SCRIPT]: Loaded Bizzes
+[20:22:38] [SCRIPT]: Loaded S-Bizzes
+[20:22:39] weburl = "0"  (string)
+[20:22:39] [SCRIPT]: Loaded 1524 Objects
+[20:22:39] [SCRIPT]: Loaded 921 Pickups
+[20:22:39]  
+[20:22:39]            Pois0n Roleplay 
+[20:22:39] _________________________________________
+[20:22:39]           By:    
+[20:22:39]  
+[20:22:39] Number of vehicle models: 181
+[20:23:08] Incoming connection: 127.0.0.1:2547
+[20:23:08] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[20:23:31] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Idlewood, Los Santos).
+[20:24:36] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[20:24:44] [part] Emily_Brown has left the server (0:1)
+[20:26:14] --- Server Shutting Down.
+[20:26:14] Drop Gun FS by a fat guy.....Unloaded :( 
+[20:26:14] 
+--------------------------------------
+[20:26:14]  Real Vehicle Lights UNLOADED
+[20:26:14] --------------------------------------
+
+[20:26:14] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3c R5, (C)2005-2011 SA-MP Team
+
+[08:11:09] 
+[08:11:09] Server Plugins
+[08:11:09] --------------
+[08:11:09]  Loading plugin: streamer
+[08:11:09] 
+
+*** Streamer Plugin v2.5.2 by Incognito loaded ***
+
+[08:11:09]   Loaded.
+[08:11:09]  Loading plugin: audio
+[08:11:09] 
+
+*** Audio Plugin v0.5 by Incognito loaded ***
+
+[08:11:09]   Loaded.
+[08:11:09]  Loaded 2 plugins.
+
+[08:11:10] 
+[08:11:10] Ban list
+[08:11:10] --------
+[08:11:10]  Loaded: samp.ban
+[08:11:10] 
+[08:11:10] 
+[08:11:10] Filter Scripts
+[08:11:10] ---------------
+[08:11:10]   Loading filter script 'DropGun1.amx'...
+[08:11:10] 
+--------------------------------------
+[08:11:10] Drop Gun FS by a fat guy.....Loaded!!!
+[08:11:10] --------------------------------------
+
+[08:11:10]   Loading filter script 'PoliceLight.amx'...
+[08:11:10]  Filterscript Tint system 
+[08:11:10]  made by Srdjan loaded  
+[08:11:10]   Loading filter script 'radio.amx'...
+[08:11:10]   Loaded 3 filter scripts.
+
+[08:11:10] *** Audio Plugin: Started TCP server on port 8888
+[08:11:10] [SCRIPT]: Loaded Cars
+[08:11:20] [SCRIPT]: Loaded Houses
+[08:11:20] [SCRIPT]: Loaded Bizzes
+[08:11:20] [SCRIPT]: Loaded S-Bizzes
+[08:11:21] weburl = "0"  (string)
+[08:11:21] [SCRIPT]: Loaded 1524 Objects
+[08:11:21] [SCRIPT]: Loaded 921 Pickups
+[08:11:21]  
+[08:11:21]            Pois0n Roleplay 
+[08:11:21] _________________________________________
+[08:11:21]           By:    
+[08:11:21]  
+[08:11:21] Number of vehicle models: 181
+[08:11:46] Incoming connection: 127.0.0.1:3594
+[08:11:46] [join] Emily_Brown has joined the server (0:127.0.0.1)
+[08:12:12] [ADMIN]: Emily_Brown Has Teleported Himself to Los Santos.
+[08:12:17] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [520] At His Position (Pershing Square, Los Santos).
+[08:16:46] [INFO]: Emily_Brown (0) has been killed by Server. (Death)
+[08:16:46] [death] Emily_Brown died 255
+[08:17:07] [ADMIN]: Emily_Brown Has Spawned a Infernus (411) [521] At His Position (Mulholland Section, Los Santos).
+[08:18:13] [INFO]: Emily_Brown Has left the Server. [Leaving]
+[08:18:20] [part] Emily_Brown has left the server (0:1)
+[08:18:25] --- Server Shutting Down.
+[08:18:25] Drop Gun FS by a fat guy.....Unloaded :( 
+[08:18:25] 
+--------------------------------------
+[08:18:25]  Real Vehicle Lights UNLOADED
+[08:18:25] --------------------------------------
+
+[08:18:25] 
+
+*** Streamer Plugin v2.5.2 by Incognito unloaded ***
+

@@ -1,0 +1,21 @@
+1 - JOB - Detective
+2 - JOB - Lawyer
+3 - JOB - Whore
+4 - JOB - Drug Dealer
+5 - JOB - Car Jacker
+6 - JOB - Waiter
+7 - JOB - Mechanic
+8 - JOB - Bodyguard
+11 - JOB - Stuntman
+12 - JOB - Boxer
+13 - JOB - Taxi Driver
+14 - JOB - Bus Driver
+15 - JOB - Paper Boy
+16 - JOB - Trucker - Bugged
+17 - JOB - Pizza Boy
+18 - JOB - Farmer
+19 - JOB - Illegal Farmer
+20 - JOB - Drugs Smuggler
+21 - JOB - Street Sweeper
+22 - JOB - Materials Smuggler
+23 - JOB - Arms Dealer

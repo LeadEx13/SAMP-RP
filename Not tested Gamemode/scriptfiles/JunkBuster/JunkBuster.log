@@ -1,0 +1,913 @@
+20. August 2011 | 11:08:40 | Current JunkBuster configuration: 
+20. August 2011 | 11:08:40 | - WeaponHack = 1
+20. August 2011 | 11:08:40 | - MoneyHack = 0
+20. August 2011 | 11:08:40 | - Jetpack = 1
+20. August 2011 | 11:08:40 | - HealthHack = 1
+20. August 2011 | 11:08:40 | - ArmourHack = 1
+20. August 2011 | 11:08:40 | - DriveBy = 3
+20. August 2011 | 11:08:40 | - Spam = 1
+20. August 2011 | 11:08:40 | - CommandSpam = 1
+20. August 2011 | 11:08:40 | - BadWords = 1
+20. August 2011 | 11:08:40 | - CarJackHack = 1
+20. August 2011 | 11:08:40 | - TeleportHack = 1
+20. August 2011 | 11:08:40 | - MaxPing = 500
+20. August 2011 | 11:08:40 | - SpectateHack = 1
+20. August 2011 | 11:08:40 | - Blacklist = 1
+20. August 2011 | 11:08:40 | - IpBans = 1
+20. August 2011 | 11:08:41 | - TempBans = 1
+20. August 2011 | 11:08:41 | - SpawnKill = 3
+20. August 2011 | 11:08:41 | - CapsLock = 1
+20. August 2011 | 11:08:41 | - 3DSpeed = 0
+20. August 2011 | 11:08:41 | - MaxSpeed = 230
+20. August 2011 | 11:08:41 | - AdminImmunity = 1
+20. August 2011 | 11:08:41 | - Advertisement = 0
+20. August 2011 | 11:08:41 | - FreezeUpdate = 0
+20. August 2011 | 11:08:41 | - SpawnTime = 10
+20. August 2011 | 11:08:41 | - CheckpointTeleport = 1
+20. August 2011 | 11:08:41 | - Airbrake = 150
+20. August 2011 | 11:08:41 | - TankMode = 1
+20. August 2011 | 11:08:41 | - WarnPlayers = 0
+20. August 2011 | 11:08:41 | - SingleplayerCheats = 1
+20. August 2011 | 11:08:41 | - MinFPS = 13
+20. August 2011 | 11:08:41 | - DisableBadWeapons = 1
+20. August 2011 | 11:08:41 | - CBug = 16
+20. August 2011 | 11:08:41 | - AntiBugKill = 1
+20. August 2011 | 11:08:41 | - NoReload = 20
+20. August 2011 | 11:08:41 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:08:41 | - ActiveGMC = 2
+20. August 2011 | 11:08:41 | - GMCBan = 0
+20. August 2011 | 11:08:41 | - ServerSideHealth = 1
+20. August 2011 | 11:08:41 | - CheckVMPos = 0
+20. August 2011 | 11:08:41 | - QuickTurn = 1
+20. August 2011 | 11:08:41 | - VehicleTeleport = 1
+20. August 2011 | 11:08:41 | - Wallride = 170
+20. August 2011 | 11:08:41 | - DisplayTextDraw = 1
+20. August 2011 | 11:08:41 | - AFK = 5
+20. August 2011 | 11:08:41 | - PickupTeleport = 1
+20. August 2011 | 11:08:41 | - FlyHack = 40
+20. August 2011 | 11:08:41 | - JunkBusterChrome = 1
+20. August 2011 | 11:08:41 | - CheckWalkAnims = 1
+20. August 2011 | 11:08:41 | - ReportMoneyHack = 1
+20. August 2011 | 11:08:41 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:08:41 | - Joypad = 0
+20. August 2011 | 11:08:41 | - ArmedVehicles = 0
+20. August 2011 | 11:08:41 | - VehicleRepair = 2
+20. August 2011 | 11:08:41 | - TuningHack = 1
+20. August 2011 | 11:08:41 | - PayForGuns = 3
+20. August 2011 | 11:08:41 | - SpawnVehicles = 2
+20. August 2011 | 11:08:41 | - MaxTotalWarnings = 15
+20. August 2011 | 11:08:41 | - TooManyWarningsAction = 1
+20. August 2011 | 11:08:41 | 0 IP-bans have been loaded.
+20. August 2011 | 11:08:41 | 0 temporary bans have been loaded.
+20. August 2011 | 11:08:41 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:08:41 | 5 blacklist entries have been loaded.
+20. August 2011 | 11:08:41 | 0 bad words have been loaded.
+20. August 2011 | 11:08:41 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:08:41 | JunkBuster has been configurated.
+20. August 2011 | 11:08:41 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:09:07 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:11:41 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:12:08 | Executing JunkBuster Chrome for player 'asasffa'.
+20. August 2011 | 11:13:40 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $9301 found.
+20. August 2011 | 11:13:43 | Eugen_Kelson (127.0.0.1) has been kicked for Using weapon cheats (Rocket Launcher).
+20. August 2011 | 11:13:43 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:15:38 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $9801 found.
+20. August 2011 | 11:15:38 | Eugen_Kelson (127.0.0.1) has been banned for Cheats detected.
+20. August 2011 | 11:15:38 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:18:12 | Resetting player classes.
+20. August 2011 | 11:18:19 | Current JunkBuster configuration: 
+20. August 2011 | 11:18:19 | - WeaponHack = 1
+20. August 2011 | 11:18:19 | - MoneyHack = 1
+20. August 2011 | 11:18:19 | - Jetpack = 1
+20. August 2011 | 11:18:19 | - HealthHack = 1
+20. August 2011 | 11:18:19 | - ArmourHack = 1
+20. August 2011 | 11:18:19 | - DriveBy = 3
+20. August 2011 | 11:18:19 | - Spam = 1
+20. August 2011 | 11:18:19 | - CommandSpam = 1
+20. August 2011 | 11:18:19 | - BadWords = 1
+20. August 2011 | 11:18:19 | - CarJackHack = 1
+20. August 2011 | 11:18:19 | - TeleportHack = 1
+20. August 2011 | 11:18:19 | - MaxPing = 500
+20. August 2011 | 11:18:19 | - SpectateHack = 1
+20. August 2011 | 11:18:19 | - Blacklist = 1
+20. August 2011 | 11:18:19 | - IpBans = 1
+20. August 2011 | 11:18:19 | - TempBans = 1
+20. August 2011 | 11:18:19 | - SpawnKill = 3
+20. August 2011 | 11:18:19 | - CapsLock = 1
+20. August 2011 | 11:18:19 | - 3DSpeed = 0
+20. August 2011 | 11:18:19 | - MaxSpeed = 230
+20. August 2011 | 11:18:19 | - AdminImmunity = 1
+20. August 2011 | 11:18:19 | - Advertisement = 0
+20. August 2011 | 11:18:19 | - FreezeUpdate = 0
+20. August 2011 | 11:18:19 | - SpawnTime = 10
+20. August 2011 | 11:18:19 | - CheckpointTeleport = 1
+20. August 2011 | 11:18:19 | - Airbrake = 150
+20. August 2011 | 11:18:19 | - TankMode = 1
+20. August 2011 | 11:18:19 | - WarnPlayers = 0
+20. August 2011 | 11:18:19 | - SingleplayerCheats = 1
+20. August 2011 | 11:18:19 | - MinFPS = 13
+20. August 2011 | 11:18:19 | - DisableBadWeapons = 1
+20. August 2011 | 11:18:19 | - CBug = 16
+20. August 2011 | 11:18:19 | - AntiBugKill = 1
+20. August 2011 | 11:18:19 | - NoReload = 20
+20. August 2011 | 11:18:19 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:18:19 | - ActiveGMC = 2
+20. August 2011 | 11:18:19 | - GMCBan = 0
+20. August 2011 | 11:18:19 | - ServerSideHealth = 1
+20. August 2011 | 11:18:19 | - CheckVMPos = 0
+20. August 2011 | 11:18:19 | - QuickTurn = 1
+20. August 2011 | 11:18:19 | - VehicleTeleport = 1
+20. August 2011 | 11:18:19 | - Wallride = 170
+20. August 2011 | 11:18:20 | - DisplayTextDraw = 1
+20. August 2011 | 11:18:20 | - AFK = 5
+20. August 2011 | 11:18:20 | - PickupTeleport = 1
+20. August 2011 | 11:18:20 | - FlyHack = 40
+20. August 2011 | 11:18:20 | - JunkBusterChrome = 1
+20. August 2011 | 11:18:20 | - CheckWalkAnims = 1
+20. August 2011 | 11:18:20 | - ReportMoneyHack = 1
+20. August 2011 | 11:18:20 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:18:20 | - Joypad = 0
+20. August 2011 | 11:18:20 | - ArmedVehicles = 0
+20. August 2011 | 11:18:20 | - VehicleRepair = 2
+20. August 2011 | 11:18:20 | - TuningHack = 1
+20. August 2011 | 11:18:20 | - PayForGuns = 3
+20. August 2011 | 11:18:20 | - SpawnVehicles = 2
+20. August 2011 | 11:18:20 | - MaxTotalWarnings = 15
+20. August 2011 | 11:18:20 | - TooManyWarningsAction = 1
+20. August 2011 | 11:18:20 | 0 IP-bans have been loaded.
+20. August 2011 | 11:18:20 | 0 temporary bans have been loaded.
+20. August 2011 | 11:18:20 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:18:20 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:18:20 | 0 bad words have been loaded.
+20. August 2011 | 11:18:20 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:18:20 | JunkBuster has been configurated.
+20. August 2011 | 11:18:20 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:18:55 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $500 found.
+20. August 2011 | 11:18:58 | Eugen_Kelson (127.0.0.1) has been banned for Cheats detected.
+20. August 2011 | 11:18:58 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:20:10 | Resetting player classes.
+20. August 2011 | 11:20:16 | Current JunkBuster configuration: 
+20. August 2011 | 11:20:16 | - WeaponHack = 1
+20. August 2011 | 11:20:16 | - MoneyHack = 1
+20. August 2011 | 11:20:16 | - Jetpack = 1
+20. August 2011 | 11:20:16 | - HealthHack = 1
+20. August 2011 | 11:20:16 | - ArmourHack = 1
+20. August 2011 | 11:20:16 | - DriveBy = 3
+20. August 2011 | 11:20:16 | - Spam = 1
+20. August 2011 | 11:20:16 | - CommandSpam = 1
+20. August 2011 | 11:20:16 | - BadWords = 1
+20. August 2011 | 11:20:16 | - CarJackHack = 1
+20. August 2011 | 11:20:16 | - TeleportHack = 1
+20. August 2011 | 11:20:16 | - MaxPing = 500
+20. August 2011 | 11:20:16 | - SpectateHack = 1
+20. August 2011 | 11:20:16 | - Blacklist = 1
+20. August 2011 | 11:20:16 | - IpBans = 1
+20. August 2011 | 11:20:16 | - TempBans = 1
+20. August 2011 | 11:20:16 | - SpawnKill = 3
+20. August 2011 | 11:20:16 | - CapsLock = 1
+20. August 2011 | 11:20:16 | - 3DSpeed = 0
+20. August 2011 | 11:20:16 | - MaxSpeed = 230
+20. August 2011 | 11:20:16 | - AdminImmunity = 1
+20. August 2011 | 11:20:16 | - Advertisement = 0
+20. August 2011 | 11:20:16 | - FreezeUpdate = 0
+20. August 2011 | 11:20:16 | - SpawnTime = 10
+20. August 2011 | 11:20:16 | - CheckpointTeleport = 1
+20. August 2011 | 11:20:16 | - Airbrake = 150
+20. August 2011 | 11:20:16 | - TankMode = 1
+20. August 2011 | 11:20:16 | - WarnPlayers = 0
+20. August 2011 | 11:20:16 | - SingleplayerCheats = 1
+20. August 2011 | 11:20:16 | - MinFPS = 13
+20. August 2011 | 11:20:16 | - DisableBadWeapons = 1
+20. August 2011 | 11:20:16 | - CBug = 16
+20. August 2011 | 11:20:16 | - AntiBugKill = 1
+20. August 2011 | 11:20:16 | - NoReload = 20
+20. August 2011 | 11:20:16 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:20:16 | - ActiveGMC = 2
+20. August 2011 | 11:20:16 | - GMCBan = 0
+20. August 2011 | 11:20:16 | - ServerSideHealth = 1
+20. August 2011 | 11:20:16 | - CheckVMPos = 0
+20. August 2011 | 11:20:16 | - QuickTurn = 1
+20. August 2011 | 11:20:16 | - VehicleTeleport = 1
+20. August 2011 | 11:20:16 | - Wallride = 170
+20. August 2011 | 11:20:16 | - DisplayTextDraw = 1
+20. August 2011 | 11:20:16 | - AFK = 5
+20. August 2011 | 11:20:16 | - PickupTeleport = 1
+20. August 2011 | 11:20:16 | - FlyHack = 40
+20. August 2011 | 11:20:16 | - JunkBusterChrome = 1
+20. August 2011 | 11:20:16 | - CheckWalkAnims = 1
+20. August 2011 | 11:20:16 | - ReportMoneyHack = 1
+20. August 2011 | 11:20:16 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:20:16 | - Joypad = 0
+20. August 2011 | 11:20:16 | - ArmedVehicles = 0
+20. August 2011 | 11:20:16 | - VehicleRepair = 2
+20. August 2011 | 11:20:16 | - TuningHack = 1
+20. August 2011 | 11:20:16 | - PayForGuns = 3
+20. August 2011 | 11:20:16 | - SpawnVehicles = 2
+20. August 2011 | 11:20:16 | - MaxTotalWarnings = 15
+20. August 2011 | 11:20:16 | - TooManyWarningsAction = 1
+20. August 2011 | 11:20:16 | 0 IP-bans have been loaded.
+20. August 2011 | 11:20:16 | 0 temporary bans have been loaded.
+20. August 2011 | 11:20:16 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:20:16 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:20:16 | 0 bad words have been loaded.
+20. August 2011 | 11:20:16 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:20:16 | JunkBuster has been configurated.
+20. August 2011 | 11:20:16 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:20:42 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $1000 found.
+20. August 2011 | 11:20:56 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $500 found.
+20. August 2011 | 11:21:29 | Eugen_Kelson (127.0.0.1) has been banned for Cheats detected.
+20. August 2011 | 11:21:29 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:21:58 | Resetting player classes.
+20. August 2011 | 11:27:16 | Current JunkBuster configuration: 
+20. August 2011 | 11:27:16 | - WeaponHack = 1
+20. August 2011 | 11:27:16 | - MoneyHack = 1
+20. August 2011 | 11:27:16 | - Jetpack = 1
+20. August 2011 | 11:27:16 | - HealthHack = 1
+20. August 2011 | 11:27:16 | - ArmourHack = 1
+20. August 2011 | 11:27:16 | - DriveBy = 3
+20. August 2011 | 11:27:16 | - Spam = 1
+20. August 2011 | 11:27:16 | - CommandSpam = 1
+20. August 2011 | 11:27:16 | - BadWords = 1
+20. August 2011 | 11:27:16 | - CarJackHack = 1
+20. August 2011 | 11:27:16 | - TeleportHack = 1
+20. August 2011 | 11:27:16 | - MaxPing = 500
+20. August 2011 | 11:27:16 | - SpectateHack = 1
+20. August 2011 | 11:27:16 | - Blacklist = 1
+20. August 2011 | 11:27:16 | - IpBans = 1
+20. August 2011 | 11:27:16 | - TempBans = 1
+20. August 2011 | 11:27:16 | - SpawnKill = 3
+20. August 2011 | 11:27:16 | - CapsLock = 1
+20. August 2011 | 11:27:16 | - 3DSpeed = 0
+20. August 2011 | 11:27:16 | - MaxSpeed = 230
+20. August 2011 | 11:27:16 | - AdminImmunity = 1
+20. August 2011 | 11:27:16 | - Advertisement = 0
+20. August 2011 | 11:27:16 | - FreezeUpdate = 0
+20. August 2011 | 11:27:16 | - SpawnTime = 10
+20. August 2011 | 11:27:16 | - CheckpointTeleport = 1
+20. August 2011 | 11:27:16 | - Airbrake = 150
+20. August 2011 | 11:27:16 | - TankMode = 1
+20. August 2011 | 11:27:16 | - WarnPlayers = 0
+20. August 2011 | 11:27:16 | - SingleplayerCheats = 1
+20. August 2011 | 11:27:16 | - MinFPS = 13
+20. August 2011 | 11:27:16 | - DisableBadWeapons = 1
+20. August 2011 | 11:27:16 | - CBug = 16
+20. August 2011 | 11:27:16 | - AntiBugKill = 1
+20. August 2011 | 11:27:16 | - NoReload = 20
+20. August 2011 | 11:27:16 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:27:16 | - ActiveGMC = 2
+20. August 2011 | 11:27:16 | - GMCBan = 0
+20. August 2011 | 11:27:16 | - ServerSideHealth = 1
+20. August 2011 | 11:27:16 | - CheckVMPos = 0
+20. August 2011 | 11:27:16 | - QuickTurn = 1
+20. August 2011 | 11:27:16 | - VehicleTeleport = 1
+20. August 2011 | 11:27:16 | - Wallride = 170
+20. August 2011 | 11:27:16 | - DisplayTextDraw = 1
+20. August 2011 | 11:27:16 | - AFK = 5
+20. August 2011 | 11:27:16 | - PickupTeleport = 1
+20. August 2011 | 11:27:16 | - FlyHack = 40
+20. August 2011 | 11:27:16 | - JunkBusterChrome = 1
+20. August 2011 | 11:27:16 | - CheckWalkAnims = 1
+20. August 2011 | 11:27:16 | - ReportMoneyHack = 1
+20. August 2011 | 11:27:16 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:27:16 | - Joypad = 0
+20. August 2011 | 11:27:16 | - ArmedVehicles = 0
+20. August 2011 | 11:27:16 | - VehicleRepair = 2
+20. August 2011 | 11:27:16 | - TuningHack = 1
+20. August 2011 | 11:27:16 | - PayForGuns = 3
+20. August 2011 | 11:27:16 | - SpawnVehicles = 2
+20. August 2011 | 11:27:16 | - MaxTotalWarnings = 15
+20. August 2011 | 11:27:16 | - TooManyWarningsAction = 1
+20. August 2011 | 11:27:16 | 0 IP-bans have been loaded.
+20. August 2011 | 11:27:16 | 0 temporary bans have been loaded.
+20. August 2011 | 11:27:16 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:27:16 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:27:16 | 0 bad words have been loaded.
+20. August 2011 | 11:27:16 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:27:16 | JunkBuster has been configurated.
+20. August 2011 | 11:27:16 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:27:23 | Resetting player classes.
+20. August 2011 | 11:27:24 | Current JunkBuster configuration: 
+20. August 2011 | 11:27:24 | - WeaponHack = 1
+20. August 2011 | 11:27:24 | - MoneyHack = 1
+20. August 2011 | 11:27:24 | - Jetpack = 1
+20. August 2011 | 11:27:24 | - HealthHack = 1
+20. August 2011 | 11:27:24 | - ArmourHack = 1
+20. August 2011 | 11:27:24 | - DriveBy = 3
+20. August 2011 | 11:27:24 | - Spam = 1
+20. August 2011 | 11:27:24 | - CommandSpam = 1
+20. August 2011 | 11:27:24 | - BadWords = 1
+20. August 2011 | 11:27:24 | - CarJackHack = 1
+20. August 2011 | 11:27:24 | - TeleportHack = 1
+20. August 2011 | 11:27:24 | - MaxPing = 500
+20. August 2011 | 11:27:24 | - SpectateHack = 1
+20. August 2011 | 11:27:24 | - Blacklist = 1
+20. August 2011 | 11:27:24 | - IpBans = 1
+20. August 2011 | 11:27:24 | - TempBans = 1
+20. August 2011 | 11:27:24 | - SpawnKill = 3
+20. August 2011 | 11:27:24 | - CapsLock = 1
+20. August 2011 | 11:27:24 | - 3DSpeed = 0
+20. August 2011 | 11:27:24 | - MaxSpeed = 230
+20. August 2011 | 11:27:24 | - AdminImmunity = 1
+20. August 2011 | 11:27:24 | - Advertisement = 0
+20. August 2011 | 11:27:24 | - FreezeUpdate = 0
+20. August 2011 | 11:27:24 | - SpawnTime = 10
+20. August 2011 | 11:27:24 | - CheckpointTeleport = 1
+20. August 2011 | 11:27:24 | - Airbrake = 150
+20. August 2011 | 11:27:24 | - TankMode = 1
+20. August 2011 | 11:27:24 | - WarnPlayers = 0
+20. August 2011 | 11:27:24 | - SingleplayerCheats = 1
+20. August 2011 | 11:27:24 | - MinFPS = 13
+20. August 2011 | 11:27:24 | - DisableBadWeapons = 1
+20. August 2011 | 11:27:24 | - CBug = 16
+20. August 2011 | 11:27:24 | - AntiBugKill = 1
+20. August 2011 | 11:27:24 | - NoReload = 20
+20. August 2011 | 11:27:24 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:27:24 | - ActiveGMC = 2
+20. August 2011 | 11:27:24 | - GMCBan = 0
+20. August 2011 | 11:27:24 | - ServerSideHealth = 1
+20. August 2011 | 11:27:24 | - CheckVMPos = 0
+20. August 2011 | 11:27:24 | - QuickTurn = 1
+20. August 2011 | 11:27:24 | - VehicleTeleport = 1
+20. August 2011 | 11:27:24 | - Wallride = 170
+20. August 2011 | 11:27:24 | - DisplayTextDraw = 1
+20. August 2011 | 11:27:24 | - AFK = 5
+20. August 2011 | 11:27:24 | - PickupTeleport = 1
+20. August 2011 | 11:27:24 | - FlyHack = 40
+20. August 2011 | 11:27:24 | - JunkBusterChrome = 1
+20. August 2011 | 11:27:24 | - CheckWalkAnims = 1
+20. August 2011 | 11:27:24 | - ReportMoneyHack = 1
+20. August 2011 | 11:27:24 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:27:24 | - Joypad = 0
+20. August 2011 | 11:27:24 | - ArmedVehicles = 0
+20. August 2011 | 11:27:24 | - VehicleRepair = 2
+20. August 2011 | 11:27:24 | - TuningHack = 1
+20. August 2011 | 11:27:24 | - PayForGuns = 3
+20. August 2011 | 11:27:24 | - SpawnVehicles = 2
+20. August 2011 | 11:27:24 | - MaxTotalWarnings = 15
+20. August 2011 | 11:27:24 | - TooManyWarningsAction = 1
+20. August 2011 | 11:27:24 | 0 IP-bans have been loaded.
+20. August 2011 | 11:27:24 | 0 temporary bans have been loaded.
+20. August 2011 | 11:27:24 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:27:24 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:27:24 | 0 bad words have been loaded.
+20. August 2011 | 11:27:24 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:27:24 | JunkBuster has been configurated.
+20. August 2011 | 11:27:24 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:28:07 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $1500 found.
+20. August 2011 | 11:28:20 | Eugen_Kelson (127.0.0.1) has been banned for Cheats detected.
+20. August 2011 | 11:28:20 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:28:44 | Resetting player classes.
+20. August 2011 | 11:29:11 | Current JunkBuster configuration: 
+20. August 2011 | 11:29:11 | - WeaponHack = 1
+20. August 2011 | 11:29:11 | - MoneyHack = 1
+20. August 2011 | 11:29:11 | - Jetpack = 1
+20. August 2011 | 11:29:11 | - HealthHack = 1
+20. August 2011 | 11:29:11 | - ArmourHack = 1
+20. August 2011 | 11:29:11 | - DriveBy = 3
+20. August 2011 | 11:29:11 | - Spam = 1
+20. August 2011 | 11:29:11 | - CommandSpam = 1
+20. August 2011 | 11:29:11 | - BadWords = 1
+20. August 2011 | 11:29:11 | - CarJackHack = 1
+20. August 2011 | 11:29:11 | - TeleportHack = 1
+20. August 2011 | 11:29:11 | - MaxPing = 500
+20. August 2011 | 11:29:11 | - SpectateHack = 1
+20. August 2011 | 11:29:11 | - Blacklist = 1
+20. August 2011 | 11:29:11 | - IpBans = 1
+20. August 2011 | 11:29:11 | - TempBans = 1
+20. August 2011 | 11:29:11 | - SpawnKill = 3
+20. August 2011 | 11:29:11 | - CapsLock = 1
+20. August 2011 | 11:29:11 | - 3DSpeed = 0
+20. August 2011 | 11:29:11 | - MaxSpeed = 230
+20. August 2011 | 11:29:11 | - AdminImmunity = 1
+20. August 2011 | 11:29:11 | - Advertisement = 0
+20. August 2011 | 11:29:11 | - FreezeUpdate = 0
+20. August 2011 | 11:29:11 | - SpawnTime = 10
+20. August 2011 | 11:29:11 | - CheckpointTeleport = 1
+20. August 2011 | 11:29:11 | - Airbrake = 150
+20. August 2011 | 11:29:11 | - TankMode = 1
+20. August 2011 | 11:29:11 | - WarnPlayers = 0
+20. August 2011 | 11:29:11 | - SingleplayerCheats = 1
+20. August 2011 | 11:29:11 | - MinFPS = 13
+20. August 2011 | 11:29:11 | - DisableBadWeapons = 1
+20. August 2011 | 11:29:11 | - CBug = 16
+20. August 2011 | 11:29:11 | - AntiBugKill = 1
+20. August 2011 | 11:29:11 | - NoReload = 20
+20. August 2011 | 11:29:11 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:29:11 | - ActiveGMC = 2
+20. August 2011 | 11:29:11 | - GMCBan = 0
+20. August 2011 | 11:29:11 | - ServerSideHealth = 1
+20. August 2011 | 11:29:11 | - CheckVMPos = 0
+20. August 2011 | 11:29:11 | - QuickTurn = 1
+20. August 2011 | 11:29:11 | - VehicleTeleport = 1
+20. August 2011 | 11:29:11 | - Wallride = 170
+20. August 2011 | 11:29:11 | - DisplayTextDraw = 1
+20. August 2011 | 11:29:11 | - AFK = 5
+20. August 2011 | 11:29:11 | - PickupTeleport = 1
+20. August 2011 | 11:29:11 | - FlyHack = 40
+20. August 2011 | 11:29:11 | - JunkBusterChrome = 1
+20. August 2011 | 11:29:11 | - CheckWalkAnims = 1
+20. August 2011 | 11:29:11 | - ReportMoneyHack = 1
+20. August 2011 | 11:29:11 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:29:11 | - Joypad = 0
+20. August 2011 | 11:29:11 | - ArmedVehicles = 0
+20. August 2011 | 11:29:11 | - VehicleRepair = 2
+20. August 2011 | 11:29:11 | - TuningHack = 1
+20. August 2011 | 11:29:11 | - PayForGuns = 3
+20. August 2011 | 11:29:11 | - SpawnVehicles = 2
+20. August 2011 | 11:29:11 | - MaxTotalWarnings = 15
+20. August 2011 | 11:29:11 | - TooManyWarningsAction = 1
+20. August 2011 | 11:29:11 | 0 IP-bans have been loaded.
+20. August 2011 | 11:29:11 | 0 temporary bans have been loaded.
+20. August 2011 | 11:29:11 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:29:11 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:29:11 | 0 bad words have been loaded.
+20. August 2011 | 11:29:11 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:29:11 | JunkBuster has been configurated.
+20. August 2011 | 11:29:11 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:30:15 | Current JunkBuster configuration: 
+20. August 2011 | 11:30:15 | - WeaponHack = 1
+20. August 2011 | 11:30:15 | - MoneyHack = 1
+20. August 2011 | 11:30:15 | - Jetpack = 1
+20. August 2011 | 11:30:15 | - HealthHack = 1
+20. August 2011 | 11:30:15 | - ArmourHack = 1
+20. August 2011 | 11:30:15 | - DriveBy = 3
+20. August 2011 | 11:30:15 | - Spam = 1
+20. August 2011 | 11:30:15 | - CommandSpam = 1
+20. August 2011 | 11:30:15 | - BadWords = 1
+20. August 2011 | 11:30:15 | - CarJackHack = 1
+20. August 2011 | 11:30:15 | - TeleportHack = 1
+20. August 2011 | 11:30:15 | - MaxPing = 500
+20. August 2011 | 11:30:15 | - SpectateHack = 1
+20. August 2011 | 11:30:15 | - Blacklist = 1
+20. August 2011 | 11:30:15 | - IpBans = 1
+20. August 2011 | 11:30:15 | - TempBans = 1
+20. August 2011 | 11:30:15 | - SpawnKill = 3
+20. August 2011 | 11:30:15 | - CapsLock = 1
+20. August 2011 | 11:30:15 | - 3DSpeed = 0
+20. August 2011 | 11:30:15 | - MaxSpeed = 230
+20. August 2011 | 11:30:15 | - AdminImmunity = 1
+20. August 2011 | 11:30:15 | - Advertisement = 0
+20. August 2011 | 11:30:15 | - FreezeUpdate = 0
+20. August 2011 | 11:30:15 | - SpawnTime = 10
+20. August 2011 | 11:30:15 | - CheckpointTeleport = 1
+20. August 2011 | 11:30:15 | - Airbrake = 150
+20. August 2011 | 11:30:15 | - TankMode = 1
+20. August 2011 | 11:30:15 | - WarnPlayers = 0
+20. August 2011 | 11:30:15 | - SingleplayerCheats = 1
+20. August 2011 | 11:30:15 | - MinFPS = 13
+20. August 2011 | 11:30:15 | - DisableBadWeapons = 1
+20. August 2011 | 11:30:15 | - CBug = 16
+20. August 2011 | 11:30:15 | - AntiBugKill = 1
+20. August 2011 | 11:30:15 | - NoReload = 20
+20. August 2011 | 11:30:15 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:30:15 | - ActiveGMC = 2
+20. August 2011 | 11:30:15 | - GMCBan = 0
+20. August 2011 | 11:30:15 | - ServerSideHealth = 1
+20. August 2011 | 11:30:15 | - CheckVMPos = 0
+20. August 2011 | 11:30:15 | - QuickTurn = 1
+20. August 2011 | 11:30:15 | - VehicleTeleport = 1
+20. August 2011 | 11:30:15 | - Wallride = 170
+20. August 2011 | 11:30:15 | - DisplayTextDraw = 1
+20. August 2011 | 11:30:15 | - AFK = 5
+20. August 2011 | 11:30:15 | - PickupTeleport = 1
+20. August 2011 | 11:30:15 | - FlyHack = 40
+20. August 2011 | 11:30:15 | - JunkBusterChrome = 1
+20. August 2011 | 11:30:15 | - CheckWalkAnims = 1
+20. August 2011 | 11:30:15 | - ReportMoneyHack = 1
+20. August 2011 | 11:30:15 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:30:15 | - Joypad = 0
+20. August 2011 | 11:30:15 | - ArmedVehicles = 0
+20. August 2011 | 11:30:15 | - VehicleRepair = 2
+20. August 2011 | 11:30:15 | - TuningHack = 1
+20. August 2011 | 11:30:15 | - PayForGuns = 3
+20. August 2011 | 11:30:15 | - SpawnVehicles = 2
+20. August 2011 | 11:30:15 | - MaxTotalWarnings = 15
+20. August 2011 | 11:30:15 | - TooManyWarningsAction = 1
+20. August 2011 | 11:30:15 | 0 IP-bans have been loaded.
+20. August 2011 | 11:30:15 | 0 temporary bans have been loaded.
+20. August 2011 | 11:30:15 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:30:15 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:30:15 | 0 bad words have been loaded.
+20. August 2011 | 11:30:15 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:30:15 | JunkBuster has been configurated.
+20. August 2011 | 11:30:15 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:30:45 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $1500 found.
+20. August 2011 | 11:31:00 | IP 127.0.0.1 has logged in as RCON-admin
+20. August 2011 | 11:41:29 | Resetting player classes.
+20. August 2011 | 11:41:43 | Current JunkBuster configuration: 
+20. August 2011 | 11:41:43 | - WeaponHack = 1
+20. August 2011 | 11:41:43 | - MoneyHack = 1
+20. August 2011 | 11:41:43 | - Jetpack = 1
+20. August 2011 | 11:41:43 | - HealthHack = 1
+20. August 2011 | 11:41:43 | - ArmourHack = 1
+20. August 2011 | 11:41:43 | - DriveBy = 3
+20. August 2011 | 11:41:43 | - Spam = 1
+20. August 2011 | 11:41:43 | - CommandSpam = 1
+20. August 2011 | 11:41:43 | - BadWords = 1
+20. August 2011 | 11:41:43 | - CarJackHack = 1
+20. August 2011 | 11:41:43 | - TeleportHack = 1
+20. August 2011 | 11:41:43 | - MaxPing = 500
+20. August 2011 | 11:41:43 | - SpectateHack = 1
+20. August 2011 | 11:41:43 | - Blacklist = 1
+20. August 2011 | 11:41:43 | - IpBans = 1
+20. August 2011 | 11:41:43 | - TempBans = 1
+20. August 2011 | 11:41:43 | - SpawnKill = 3
+20. August 2011 | 11:41:43 | - CapsLock = 1
+20. August 2011 | 11:41:43 | - 3DSpeed = 0
+20. August 2011 | 11:41:43 | - MaxSpeed = 230
+20. August 2011 | 11:41:43 | - AdminImmunity = 1
+20. August 2011 | 11:41:43 | - Advertisement = 0
+20. August 2011 | 11:41:43 | - FreezeUpdate = 0
+20. August 2011 | 11:41:43 | - SpawnTime = 10
+20. August 2011 | 11:41:43 | - CheckpointTeleport = 1
+20. August 2011 | 11:41:43 | - Airbrake = 150
+20. August 2011 | 11:41:43 | - TankMode = 1
+20. August 2011 | 11:41:43 | - WarnPlayers = 0
+20. August 2011 | 11:41:43 | - SingleplayerCheats = 1
+20. August 2011 | 11:41:43 | - MinFPS = 13
+20. August 2011 | 11:41:43 | - DisableBadWeapons = 1
+20. August 2011 | 11:41:43 | - CBug = 16
+20. August 2011 | 11:41:43 | - AntiBugKill = 1
+20. August 2011 | 11:41:43 | - NoReload = 20
+20. August 2011 | 11:41:43 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:41:43 | - ActiveGMC = 2
+20. August 2011 | 11:41:43 | - GMCBan = 0
+20. August 2011 | 11:41:43 | - ServerSideHealth = 1
+20. August 2011 | 11:41:43 | - CheckVMPos = 0
+20. August 2011 | 11:41:43 | - QuickTurn = 1
+20. August 2011 | 11:41:43 | - VehicleTeleport = 1
+20. August 2011 | 11:41:43 | - Wallride = 170
+20. August 2011 | 11:41:43 | - DisplayTextDraw = 1
+20. August 2011 | 11:41:43 | - AFK = 5
+20. August 2011 | 11:41:43 | - PickupTeleport = 1
+20. August 2011 | 11:41:43 | - FlyHack = 40
+20. August 2011 | 11:41:43 | - JunkBusterChrome = 1
+20. August 2011 | 11:41:43 | - CheckWalkAnims = 1
+20. August 2011 | 11:41:43 | - ReportMoneyHack = 1
+20. August 2011 | 11:41:43 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:41:43 | - Joypad = 0
+20. August 2011 | 11:41:43 | - ArmedVehicles = 0
+20. August 2011 | 11:41:43 | - VehicleRepair = 2
+20. August 2011 | 11:41:43 | - TuningHack = 1
+20. August 2011 | 11:41:43 | - PayForGuns = 3
+20. August 2011 | 11:41:43 | - SpawnVehicles = 2
+20. August 2011 | 11:41:43 | - MaxTotalWarnings = 15
+20. August 2011 | 11:41:43 | - TooManyWarningsAction = 1
+20. August 2011 | 11:41:43 | 0 IP-bans have been loaded.
+20. August 2011 | 11:41:43 | 0 temporary bans have been loaded.
+20. August 2011 | 11:41:43 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:41:43 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:41:43 | 0 bad words have been loaded.
+20. August 2011 | 11:41:43 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:41:43 | JunkBuster has been configurated.
+20. August 2011 | 11:41:43 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:42:14 | Suspected player with moneyhack: Eugen_Kelson (0, 127.0.0.1), $0 expected but $1500 found.
+20. August 2011 | 11:42:21 | IP 127.0.0.1 has logged in as RCON-admin
+20. August 2011 | 11:46:17 | Resetting player classes.
+20. August 2011 | 11:46:26 | Current JunkBuster configuration: 
+20. August 2011 | 11:46:26 | - WeaponHack = 1
+20. August 2011 | 11:46:26 | - MoneyHack = 1
+20. August 2011 | 11:46:26 | - Jetpack = 1
+20. August 2011 | 11:46:26 | - HealthHack = 1
+20. August 2011 | 11:46:26 | - ArmourHack = 1
+20. August 2011 | 11:46:26 | - DriveBy = 3
+20. August 2011 | 11:46:26 | - Spam = 1
+20. August 2011 | 11:46:26 | - CommandSpam = 1
+20. August 2011 | 11:46:26 | - BadWords = 1
+20. August 2011 | 11:46:26 | - CarJackHack = 1
+20. August 2011 | 11:46:26 | - TeleportHack = 1
+20. August 2011 | 11:46:26 | - MaxPing = 500
+20. August 2011 | 11:46:26 | - SpectateHack = 1
+20. August 2011 | 11:46:26 | - Blacklist = 1
+20. August 2011 | 11:46:26 | - IpBans = 1
+20. August 2011 | 11:46:26 | - TempBans = 1
+20. August 2011 | 11:46:26 | - SpawnKill = 3
+20. August 2011 | 11:46:26 | - CapsLock = 1
+20. August 2011 | 11:46:26 | - 3DSpeed = 0
+20. August 2011 | 11:46:26 | - MaxSpeed = 230
+20. August 2011 | 11:46:26 | - AdminImmunity = 1
+20. August 2011 | 11:46:26 | - Advertisement = 0
+20. August 2011 | 11:46:26 | - FreezeUpdate = 0
+20. August 2011 | 11:46:26 | - SpawnTime = 10
+20. August 2011 | 11:46:26 | - CheckpointTeleport = 1
+20. August 2011 | 11:46:26 | - Airbrake = 150
+20. August 2011 | 11:46:26 | - TankMode = 1
+20. August 2011 | 11:46:26 | - WarnPlayers = 0
+20. August 2011 | 11:46:26 | - SingleplayerCheats = 1
+20. August 2011 | 11:46:26 | - MinFPS = 13
+20. August 2011 | 11:46:26 | - DisableBadWeapons = 1
+20. August 2011 | 11:46:26 | - CBug = 16
+20. August 2011 | 11:46:26 | - AntiBugKill = 1
+20. August 2011 | 11:46:26 | - NoReload = 20
+20. August 2011 | 11:46:26 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:46:26 | - ActiveGMC = 2
+20. August 2011 | 11:46:26 | - GMCBan = 0
+20. August 2011 | 11:46:26 | - ServerSideHealth = 1
+20. August 2011 | 11:46:26 | - CheckVMPos = 0
+20. August 2011 | 11:46:26 | - QuickTurn = 1
+20. August 2011 | 11:46:26 | - VehicleTeleport = 1
+20. August 2011 | 11:46:26 | - Wallride = 170
+20. August 2011 | 11:46:26 | - DisplayTextDraw = 1
+20. August 2011 | 11:46:26 | - AFK = 5
+20. August 2011 | 11:46:26 | - PickupTeleport = 1
+20. August 2011 | 11:46:26 | - FlyHack = 40
+20. August 2011 | 11:46:26 | - JunkBusterChrome = 1
+20. August 2011 | 11:46:26 | - CheckWalkAnims = 1
+20. August 2011 | 11:46:26 | - ReportMoneyHack = 1
+20. August 2011 | 11:46:26 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:46:26 | - Joypad = 0
+20. August 2011 | 11:46:26 | - ArmedVehicles = 0
+20. August 2011 | 11:46:26 | - VehicleRepair = 2
+20. August 2011 | 11:46:26 | - TuningHack = 1
+20. August 2011 | 11:46:26 | - PayForGuns = 3
+20. August 2011 | 11:46:26 | - SpawnVehicles = 2
+20. August 2011 | 11:46:26 | - MaxTotalWarnings = 15
+20. August 2011 | 11:46:26 | - TooManyWarningsAction = 1
+20. August 2011 | 11:46:26 | 0 IP-bans have been loaded.
+20. August 2011 | 11:46:26 | 0 temporary bans have been loaded.
+20. August 2011 | 11:46:26 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:46:26 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:46:26 | 0 bad words have been loaded.
+20. August 2011 | 11:46:26 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:46:26 | JunkBuster has been configurated.
+20. August 2011 | 11:46:26 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:47:58 | IP 127.0.0.1 has logged in as RCON-admin
+20. August 2011 | 11:55:29 | Current JunkBuster configuration: 
+20. August 2011 | 11:55:29 | - WeaponHack = 1
+20. August 2011 | 11:55:29 | - MoneyHack = 1
+20. August 2011 | 11:55:29 | - Jetpack = 1
+20. August 2011 | 11:55:29 | - HealthHack = 1
+20. August 2011 | 11:55:29 | - ArmourHack = 1
+20. August 2011 | 11:55:29 | - DriveBy = 3
+20. August 2011 | 11:55:29 | - Spam = 1
+20. August 2011 | 11:55:29 | - CommandSpam = 1
+20. August 2011 | 11:55:29 | - BadWords = 1
+20. August 2011 | 11:55:29 | - CarJackHack = 1
+20. August 2011 | 11:55:29 | - TeleportHack = 1
+20. August 2011 | 11:55:29 | - MaxPing = 500
+20. August 2011 | 11:55:29 | - SpectateHack = 1
+20. August 2011 | 11:55:29 | - Blacklist = 1
+20. August 2011 | 11:55:29 | - IpBans = 1
+20. August 2011 | 11:55:29 | - TempBans = 1
+20. August 2011 | 11:55:29 | - SpawnKill = 3
+20. August 2011 | 11:55:29 | - CapsLock = 1
+20. August 2011 | 11:55:29 | - 3DSpeed = 0
+20. August 2011 | 11:55:29 | - MaxSpeed = 230
+20. August 2011 | 11:55:29 | - AdminImmunity = 1
+20. August 2011 | 11:55:29 | - Advertisement = 0
+20. August 2011 | 11:55:29 | - FreezeUpdate = 0
+20. August 2011 | 11:55:29 | - SpawnTime = 10
+20. August 2011 | 11:55:29 | - CheckpointTeleport = 1
+20. August 2011 | 11:55:29 | - Airbrake = 150
+20. August 2011 | 11:55:29 | - TankMode = 1
+20. August 2011 | 11:55:29 | - WarnPlayers = 0
+20. August 2011 | 11:55:29 | - SingleplayerCheats = 1
+20. August 2011 | 11:55:29 | - MinFPS = 13
+20. August 2011 | 11:55:29 | - DisableBadWeapons = 1
+20. August 2011 | 11:55:29 | - CBug = 16
+20. August 2011 | 11:55:29 | - AntiBugKill = 1
+20. August 2011 | 11:55:29 | - NoReload = 20
+20. August 2011 | 11:55:29 | - NoReloadForSawnOff = 4
+20. August 2011 | 11:55:29 | - ActiveGMC = 2
+20. August 2011 | 11:55:29 | - GMCBan = 0
+20. August 2011 | 11:55:29 | - ServerSideHealth = 1
+20. August 2011 | 11:55:29 | - CheckVMPos = 0
+20. August 2011 | 11:55:29 | - QuickTurn = 1
+20. August 2011 | 11:55:29 | - VehicleTeleport = 1
+20. August 2011 | 11:55:29 | - Wallride = 170
+20. August 2011 | 11:55:29 | - DisplayTextDraw = 1
+20. August 2011 | 11:55:29 | - AFK = 5
+20. August 2011 | 11:55:29 | - PickupTeleport = 1
+20. August 2011 | 11:55:29 | - FlyHack = 40
+20. August 2011 | 11:55:29 | - JunkBusterChrome = 1
+20. August 2011 | 11:55:29 | - CheckWalkAnims = 1
+20. August 2011 | 11:55:29 | - ReportMoneyHack = 1
+20. August 2011 | 11:55:29 | - SpeedhackAdvanced = 20
+20. August 2011 | 11:55:29 | - Joypad = 0
+20. August 2011 | 11:55:29 | - ArmedVehicles = 0
+20. August 2011 | 11:55:29 | - VehicleRepair = 2
+20. August 2011 | 11:55:29 | - TuningHack = 1
+20. August 2011 | 11:55:29 | - PayForGuns = 3
+20. August 2011 | 11:55:29 | - SpawnVehicles = 2
+20. August 2011 | 11:55:29 | - MaxTotalWarnings = 15
+20. August 2011 | 11:55:29 | - TooManyWarningsAction = 1
+20. August 2011 | 11:55:29 | 0 IP-bans have been loaded.
+20. August 2011 | 11:55:29 | 0 temporary bans have been loaded.
+20. August 2011 | 11:55:29 | 0 whitelist entries have been loaded.
+20. August 2011 | 11:55:29 | 0 blacklist entries have been loaded.
+20. August 2011 | 11:55:29 | 0 bad words have been loaded.
+20. August 2011 | 11:55:29 | 4 forbidden weapons have been loaded.
+20. August 2011 | 11:55:29 | JunkBuster has been configurated.
+20. August 2011 | 11:55:29 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 11:56:00 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 11:57:12 | IP 127.0.0.1 has logged in as RCON-admin
+20. August 2011 | 11:57:28 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+20. August 2011 | 12:05:29 | Resetting player classes.
+20. August 2011 | 12:45:38 | Current JunkBuster configuration: 
+20. August 2011 | 12:45:38 | - WeaponHack = 1
+20. August 2011 | 12:45:38 | - MoneyHack = 1
+20. August 2011 | 12:45:38 | - Jetpack = 1
+20. August 2011 | 12:45:38 | - HealthHack = 1
+20. August 2011 | 12:45:38 | - ArmourHack = 1
+20. August 2011 | 12:45:38 | - DriveBy = 3
+20. August 2011 | 12:45:38 | - Spam = 1
+20. August 2011 | 12:45:38 | - CommandSpam = 1
+20. August 2011 | 12:45:38 | - BadWords = 1
+20. August 2011 | 12:45:38 | - CarJackHack = 1
+20. August 2011 | 12:45:38 | - TeleportHack = 1
+20. August 2011 | 12:45:38 | - MaxPing = 500
+20. August 2011 | 12:45:38 | - SpectateHack = 1
+20. August 2011 | 12:45:38 | - Blacklist = 1
+20. August 2011 | 12:45:38 | - IpBans = 1
+20. August 2011 | 12:45:38 | - TempBans = 1
+20. August 2011 | 12:45:38 | - SpawnKill = 3
+20. August 2011 | 12:45:38 | - CapsLock = 1
+20. August 2011 | 12:45:38 | - 3DSpeed = 0
+20. August 2011 | 12:45:38 | - MaxSpeed = 230
+20. August 2011 | 12:45:38 | - AdminImmunity = 1
+20. August 2011 | 12:45:38 | - Advertisement = 0
+20. August 2011 | 12:45:38 | - FreezeUpdate = 0
+20. August 2011 | 12:45:38 | - SpawnTime = 10
+20. August 2011 | 12:45:38 | - CheckpointTeleport = 1
+20. August 2011 | 12:45:38 | - Airbrake = 150
+20. August 2011 | 12:45:38 | - TankMode = 1
+20. August 2011 | 12:45:38 | - WarnPlayers = 0
+20. August 2011 | 12:45:38 | - SingleplayerCheats = 1
+20. August 2011 | 12:45:38 | - MinFPS = 13
+20. August 2011 | 12:45:38 | - DisableBadWeapons = 1
+20. August 2011 | 12:45:38 | - CBug = 16
+20. August 2011 | 12:45:38 | - AntiBugKill = 1
+20. August 2011 | 12:45:38 | - NoReload = 20
+20. August 2011 | 12:45:38 | - NoReloadForSawnOff = 4
+20. August 2011 | 12:45:38 | - ActiveGMC = 2
+20. August 2011 | 12:45:38 | - GMCBan = 0
+20. August 2011 | 12:45:38 | - ServerSideHealth = 1
+20. August 2011 | 12:45:38 | - CheckVMPos = 0
+20. August 2011 | 12:45:38 | - QuickTurn = 1
+20. August 2011 | 12:45:38 | - VehicleTeleport = 1
+20. August 2011 | 12:45:38 | - Wallride = 170
+20. August 2011 | 12:45:38 | - DisplayTextDraw = 1
+20. August 2011 | 12:45:38 | - AFK = 5
+20. August 2011 | 12:45:38 | - PickupTeleport = 1
+20. August 2011 | 12:45:38 | - FlyHack = 40
+20. August 2011 | 12:45:38 | - JunkBusterChrome = 1
+20. August 2011 | 12:45:38 | - CheckWalkAnims = 1
+20. August 2011 | 12:45:38 | - ReportMoneyHack = 1
+20. August 2011 | 12:45:38 | - SpeedhackAdvanced = 20
+20. August 2011 | 12:45:38 | - Joypad = 0
+20. August 2011 | 12:45:38 | - ArmedVehicles = 0
+20. August 2011 | 12:45:38 | - VehicleRepair = 2
+20. August 2011 | 12:45:38 | - TuningHack = 1
+20. August 2011 | 12:45:38 | - PayForGuns = 3
+20. August 2011 | 12:45:38 | - SpawnVehicles = 2
+20. August 2011 | 12:45:38 | - MaxTotalWarnings = 15
+20. August 2011 | 12:45:38 | - TooManyWarningsAction = 1
+20. August 2011 | 12:45:38 | 0 IP-bans have been loaded.
+20. August 2011 | 12:45:38 | 0 temporary bans have been loaded.
+20. August 2011 | 12:45:38 | 0 whitelist entries have been loaded.
+20. August 2011 | 12:45:38 | 0 blacklist entries have been loaded.
+20. August 2011 | 12:45:38 | 0 bad words have been loaded.
+20. August 2011 | 12:45:38 | 4 forbidden weapons have been loaded.
+20. August 2011 | 12:45:38 | JunkBuster has been configurated.
+20. August 2011 | 12:45:38 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 12:47:01 | Resetting player classes.
+20. August 2011 | 12:48:02 | Current JunkBuster configuration: 
+20. August 2011 | 12:48:02 | - WeaponHack = 1
+20. August 2011 | 12:48:02 | - MoneyHack = 1
+20. August 2011 | 12:48:02 | - Jetpack = 1
+20. August 2011 | 12:48:02 | - HealthHack = 1
+20. August 2011 | 12:48:02 | - ArmourHack = 1
+20. August 2011 | 12:48:02 | - DriveBy = 3
+20. August 2011 | 12:48:02 | - Spam = 1
+20. August 2011 | 12:48:02 | - CommandSpam = 1
+20. August 2011 | 12:48:02 | - BadWords = 1
+20. August 2011 | 12:48:02 | - CarJackHack = 1
+20. August 2011 | 12:48:02 | - TeleportHack = 1
+20. August 2011 | 12:48:02 | - MaxPing = 500
+20. August 2011 | 12:48:02 | - SpectateHack = 1
+20. August 2011 | 12:48:02 | - Blacklist = 1
+20. August 2011 | 12:48:02 | - IpBans = 1
+20. August 2011 | 12:48:02 | - TempBans = 1
+20. August 2011 | 12:48:02 | - SpawnKill = 3
+20. August 2011 | 12:48:02 | - CapsLock = 1
+20. August 2011 | 12:48:02 | - 3DSpeed = 0
+20. August 2011 | 12:48:02 | - MaxSpeed = 230
+20. August 2011 | 12:48:02 | - AdminImmunity = 1
+20. August 2011 | 12:48:02 | - Advertisement = 0
+20. August 2011 | 12:48:02 | - FreezeUpdate = 0
+20. August 2011 | 12:48:02 | - SpawnTime = 10
+20. August 2011 | 12:48:02 | - CheckpointTeleport = 1
+20. August 2011 | 12:48:02 | - Airbrake = 150
+20. August 2011 | 12:48:02 | - TankMode = 1
+20. August 2011 | 12:48:02 | - WarnPlayers = 0
+20. August 2011 | 12:48:02 | - SingleplayerCheats = 1
+20. August 2011 | 12:48:02 | - MinFPS = 13
+20. August 2011 | 12:48:02 | - DisableBadWeapons = 1
+20. August 2011 | 12:48:02 | - CBug = 16
+20. August 2011 | 12:48:02 | - AntiBugKill = 1
+20. August 2011 | 12:48:02 | - NoReload = 20
+20. August 2011 | 12:48:02 | - NoReloadForSawnOff = 4
+20. August 2011 | 12:48:02 | - ActiveGMC = 2
+20. August 2011 | 12:48:02 | - GMCBan = 0
+20. August 2011 | 12:48:02 | - ServerSideHealth = 1
+20. August 2011 | 12:48:02 | - CheckVMPos = 0
+20. August 2011 | 12:48:02 | - QuickTurn = 1
+20. August 2011 | 12:48:02 | - VehicleTeleport = 1
+20. August 2011 | 12:48:02 | - Wallride = 170
+20. August 2011 | 12:48:02 | - DisplayTextDraw = 1
+20. August 2011 | 12:48:02 | - AFK = 5
+20. August 2011 | 12:48:02 | - PickupTeleport = 1
+20. August 2011 | 12:48:02 | - FlyHack = 40
+20. August 2011 | 12:48:02 | - JunkBusterChrome = 1
+20. August 2011 | 12:48:02 | - CheckWalkAnims = 1
+20. August 2011 | 12:48:02 | - ReportMoneyHack = 1
+20. August 2011 | 12:48:02 | - SpeedhackAdvanced = 20
+20. August 2011 | 12:48:02 | - Joypad = 0
+20. August 2011 | 12:48:02 | - ArmedVehicles = 0
+20. August 2011 | 12:48:02 | - VehicleRepair = 2
+20. August 2011 | 12:48:02 | - TuningHack = 1
+20. August 2011 | 12:48:02 | - PayForGuns = 3
+20. August 2011 | 12:48:02 | - SpawnVehicles = 2
+20. August 2011 | 12:48:02 | - MaxTotalWarnings = 15
+20. August 2011 | 12:48:02 | - TooManyWarningsAction = 1
+20. August 2011 | 12:48:02 | 0 IP-bans have been loaded.
+20. August 2011 | 12:48:02 | 0 temporary bans have been loaded.
+20. August 2011 | 12:48:02 | 0 whitelist entries have been loaded.
+20. August 2011 | 12:48:02 | 0 blacklist entries have been loaded.
+20. August 2011 | 12:48:02 | 0 bad words have been loaded.
+20. August 2011 | 12:48:02 | 4 forbidden weapons have been loaded.
+20. August 2011 | 12:48:02 | JunkBuster has been configurated.
+20. August 2011 | 12:48:02 | JunkBuster (v10.0) has successfully been loaded.
+20. August 2011 | 12:48:10 | Resetting player classes.
+23. August 2011 | 19:59:30 | Current JunkBuster configuration: 
+23. August 2011 | 19:59:30 | - WeaponHack = 1
+23. August 2011 | 19:59:30 | - MoneyHack = 1
+23. August 2011 | 19:59:30 | - Jetpack = 1
+23. August 2011 | 19:59:30 | - HealthHack = 1
+23. August 2011 | 19:59:30 | - ArmourHack = 1
+23. August 2011 | 19:59:30 | - DriveBy = 3
+23. August 2011 | 19:59:30 | - Spam = 1
+23. August 2011 | 19:59:30 | - CommandSpam = 1
+23. August 2011 | 19:59:30 | - BadWords = 1
+23. August 2011 | 19:59:30 | - CarJackHack = 1
+23. August 2011 | 19:59:30 | - TeleportHack = 1
+23. August 2011 | 19:59:30 | - MaxPing = 500
+23. August 2011 | 19:59:30 | - SpectateHack = 1
+23. August 2011 | 19:59:30 | - Blacklist = 1
+23. August 2011 | 19:59:30 | - IpBans = 1
+23. August 2011 | 19:59:30 | - TempBans = 1
+23. August 2011 | 19:59:30 | - SpawnKill = 3
+23. August 2011 | 19:59:30 | - CapsLock = 1
+23. August 2011 | 19:59:30 | - 3DSpeed = 0
+23. August 2011 | 19:59:30 | - MaxSpeed = 230
+23. August 2011 | 19:59:30 | - AdminImmunity = 1
+23. August 2011 | 19:59:30 | - Advertisement = 0
+23. August 2011 | 19:59:30 | - FreezeUpdate = 0
+23. August 2011 | 19:59:30 | - SpawnTime = 10
+23. August 2011 | 19:59:30 | - CheckpointTeleport = 1
+23. August 2011 | 19:59:30 | - Airbrake = 150
+23. August 2011 | 19:59:30 | - TankMode = 1
+23. August 2011 | 19:59:30 | - WarnPlayers = 0
+23. August 2011 | 19:59:30 | - SingleplayerCheats = 1
+23. August 2011 | 19:59:30 | - MinFPS = 13
+23. August 2011 | 19:59:30 | - DisableBadWeapons = 1
+23. August 2011 | 19:59:30 | - CBug = 16
+23. August 2011 | 19:59:30 | - AntiBugKill = 1
+23. August 2011 | 19:59:30 | - NoReload = 20
+23. August 2011 | 19:59:30 | - NoReloadForSawnOff = 4
+23. August 2011 | 19:59:30 | - ActiveGMC = 2
+23. August 2011 | 19:59:30 | - GMCBan = 0
+23. August 2011 | 19:59:30 | - ServerSideHealth = 1
+23. August 2011 | 19:59:30 | - CheckVMPos = 0
+23. August 2011 | 19:59:30 | - QuickTurn = 1
+23. August 2011 | 19:59:30 | - VehicleTeleport = 1
+23. August 2011 | 19:59:30 | - Wallride = 170
+23. August 2011 | 19:59:30 | - DisplayTextDraw = 1
+23. August 2011 | 19:59:30 | - AFK = 5
+23. August 2011 | 19:59:30 | - PickupTeleport = 1
+23. August 2011 | 19:59:30 | - FlyHack = 40
+23. August 2011 | 19:59:30 | - JunkBusterChrome = 1
+23. August 2011 | 19:59:31 | - CheckWalkAnims = 1
+23. August 2011 | 19:59:31 | - ReportMoneyHack = 1
+23. August 2011 | 19:59:31 | - SpeedhackAdvanced = 20
+23. August 2011 | 19:59:31 | - Joypad = 0
+23. August 2011 | 19:59:31 | - ArmedVehicles = 0
+23. August 2011 | 19:59:31 | - VehicleRepair = 2
+23. August 2011 | 19:59:31 | - TuningHack = 1
+23. August 2011 | 19:59:31 | - PayForGuns = 3
+23. August 2011 | 19:59:31 | - SpawnVehicles = 2
+23. August 2011 | 19:59:31 | - MaxTotalWarnings = 15
+23. August 2011 | 19:59:31 | - TooManyWarningsAction = 1
+23. August 2011 | 19:59:31 | 0 IP-bans have been loaded.
+23. August 2011 | 19:59:31 | 0 temporary bans have been loaded.
+23. August 2011 | 19:59:31 | 0 whitelist entries have been loaded.
+23. August 2011 | 19:59:31 | 0 blacklist entries have been loaded.
+23. August 2011 | 19:59:31 | 0 bad words have been loaded.
+23. August 2011 | 19:59:31 | 4 forbidden weapons have been loaded.
+23. August 2011 | 19:59:31 | JunkBuster has been configurated.
+23. August 2011 | 19:59:31 | JunkBuster (v10.0) has successfully been loaded.
+23. August 2011 | 20:00:07 | Eugen_Kelson (127.0.0.1) has been kicked for Using weapon cheats (Desert Eagle).
+23. August 2011 | 20:00:07 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+23. August 2011 | 20:00:50 | Eugen_Kelson (127.0.0.1) has been kicked for Using weapon cheats (Desert Eagle).
+23. August 2011 | 20:00:50 | Executing JunkBuster Chrome for player 'Eugen_Kelson'.
+23. August 2011 | 20:01:07 | Resetting player classes.

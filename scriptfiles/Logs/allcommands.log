@@ -1,0 +1,158 @@
+(31/8/2011)[11:42:23] Emily_Brown [CMD] -> /upload
+(31/8/2011)[11:45:34] Emily_Brown [CMD] -> /veh 522 151 144
+(31/8/2011)[11:45:42] Emily_Brown [CMD] -> /veh 522 151 0
+(31/8/2011)[11:45:49] Emily_Brown [CMD] -> /veh 522 0 151
+(31/8/2011)[11:45:51] Emily_Brown [CMD] -> /veh 522 0 1
+(31/8/2011)[11:52:42] Emily_Brown [CMD] -> /setjob 0 13
+(31/8/2011)[11:52:44] Emily_Brown [CMD] -> /setjob 0 14
+(31/8/2011)[11:52:46] Emily_Brown [CMD] -> /stats
+(31/8/2011)[11:53:43] Emily_Brown [CMD] -> /startwest
+(31/8/2011)[12:31:53] Emily_Brown [CMD] -> /HELP
+(31/8/2011)[13:5:40] Emily_Brown [CMD] -> /upload
+(31/8/2011)[15:19:52] Emily_Brown [CMD] -> /money 0 1000000
+(31/8/2011)[15:19:56] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:19:56] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:19:57] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:19:57] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:19:57] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:19:58] Emily_Brown [CMD] -> /buylevel
+(31/8/2011)[15:20:4] Emily_Brown [CMD] -> /dealership
+(31/8/2011)[15:20:17] Emily_Brown [CMD] -> /v buy
+(31/8/2011)[15:20:23] Emily_Brown [CMD] -> /gotols
+(31/8/2011)[15:20:33] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[15:21:10] Emily_Brown [CMD] -> /buydriving
+(31/8/2011)[15:21:17] Emily_Brown [CMD] -> /agivepassport 0
+(31/8/2011)[15:21:18] Emily_Brown [CMD] -> /buydriving
+(31/8/2011)[15:21:24] Emily_Brown [CMD] -> /buyflying
+(31/8/2011)[15:21:28] Emily_Brown [CMD] -> /buysailing
+(31/8/2011)[15:21:44] Emily_Brown [CMD] -> /dealership
+(31/8/2011)[15:21:47] Emily_Brown [CMD] -> /dealership
+(31/8/2011)[15:21:58] Emily_Brown [CMD] -> /v buy
+(31/8/2011)[15:22:12] Emily_Brown [CMD] -> /dealership
+(31/8/2011)[15:23:0] Emily_Brown [CMD] -> /belt
+(31/8/2011)[15:23:5] Emily_Brown [CMD] -> /dealership
+(31/8/2011)[15:23:25] Emily_Brown [CMD] -> /weather 2
+(31/8/2011)[15:25:8] Emily_Brown [CMD] -> /enter
+(31/8/2011)[15:25:10] Emily_Brown [CMD] -> /buy
+(31/8/2011)[15:25:15] Emily_Brown [CMD] -> /exit
+(31/8/2011)[15:25:21] Emily_Brown [CMD] -> /speedo
+(31/8/2011)[15:28:5] Emily_Brown [CMD] -> /v park
+(31/8/2011)[15:28:18] Emily_Brown [CMD] -> /v lock1
+(31/8/2011)[15:28:28] Emily_Brown [CMD] -> /stats
+(31/8/2011)[19:17:50] Emily_Brown [CMD] -> /sethp 0 100
+(31/8/2011)[19:17:59] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:18:2] Emily_Brown [CMD] -> /exit
+(31/8/2011)[19:20:1] Emily_Brown [CMD] -> /makeleader 0 4
+(31/8/2011)[19:20:2] Emily_Brown [CMD] -> /makeleader 0 
+(31/8/2011)[19:20:3] Emily_Brown [CMD] -> /makeleader 0 5
+(31/8/2011)[19:22:6] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:22:9] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:22:13] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:30:17] Emily_Brown [CMD] -> /sethp 0 100
+(31/8/2011)[19:30:33] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[19:30:50] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:30:52] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:30:56] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:31:47] Emily_Brown [CMD] -> /upload
+(31/8/2011)[19:32:23] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[19:32:29] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:34:21] Emily_Brown [CMD] -> /upload
+(31/8/2011)[19:35:10] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[19:35:17] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:36:34] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[19:36:37] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[19:37:42] Emily_Brown [CMD] -> /enter
+(31/8/2011)[19:37:55] Emily_Brown [CMD] -> /checkspeed
+(31/8/2011)[19:38:5] Emily_Brown [CMD] -> /makeleader 0 1
+(31/8/2011)[19:38:6] Emily_Brown [CMD] -> /checkspeed
+(31/8/2011)[19:38:16] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:38:21] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:38:25] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:38:41] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:38:47] Emily_Brown [CMD] -> /checkspeed 0a
+(31/8/2011)[19:39:0] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:39:12] Emily_Brown [CMD] -> /checkspeed 0
+(31/8/2011)[19:39:23] Emily_Brown [CMD] -> /veh 522 1 1
+(31/8/2011)[19:40:17] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[19:40:20] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[19:40:33] Emily_Brown [CMD] -> /rentbikew
+(31/8/2011)[19:40:35] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[19:41:13] Emily_Brown [CMD] -> /cophelp
+(31/8/2011)[19:41:26] Emily_Brown [CMD] -> /breathtest
+(31/8/2011)[19:41:28] Emily_Brown [CMD] -> /breathtest 0
+(31/8/2011)[19:41:33] Emily_Brown [CMD] -> /gov
+(31/8/2011)[19:41:35] Emily_Brown [CMD] -> /gov a
+(31/8/2011)[19:41:49] Emily_Brown [CMD] -> /ram
+(31/8/2011)[19:41:51] Emily_Brown [CMD] -> /ram
+(31/8/2011)[19:41:54] Emily_Brown [CMD] -> /ram
+(31/8/2011)[19:42:4] Emily_Brown [CMD] -> /copuntie
+(31/8/2011)[19:42:8] Emily_Brown [CMD] -> /copuntie 0
+(31/8/2011)[19:42:16] Emily_Brown [CMD] -> /mir
+(31/8/2011)[19:42:25] Emily_Brown [CMD] -> /tlc
+(31/8/2011)[19:42:39] Emily_Brown [CMD] -> /rub
+(31/8/2011)[19:42:56] Emily_Brown [CMD] -> /crb
+(31/8/2011)[19:42:59] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:6] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:13] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:19] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:24] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:31] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:34] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:41] Emily_Brown [CMD] -> /crb 1
+(31/8/2011)[19:43:47] Emily_Brown [CMD] -> /crb
+(31/8/2011)[19:43:51] Emily_Brown [CMD] -> /crb 7
+(31/8/2011)[19:44:0] Emily_Brown [CMD] -> /crb 6
+(31/8/2011)[19:44:9] Emily_Brown [CMD] -> /crb 6
+(31/8/2011)[19:44:23] Emily_Brown [CMD] -> /crb 5
+(31/8/2011)[19:44:38] Emily_Brown [CMD] -> /crb 4
+(31/8/2011)[19:44:41] Emily_Brown [CMD] -> /crb 3
+(31/8/2011)[19:44:47] Emily_Brown [CMD] -> /crb 2
+(31/8/2011)[19:45:4] Emily_Brown [CMD] -> /cophelp
+(31/8/2011)[19:45:8] Emily_Brown [CMD] -> /rrbal
+(31/8/2011)[19:45:12] Emily_Brown [CMD] -> /rrball
+(31/8/2011)[19:45:27] Emily_Brown [CMD] -> /crb
+(31/8/2011)[19:45:37] Emily_Brown [CMD] -> /crb 3
+(31/8/2011)[19:45:44] Emily_Brown [CMD] -> /rrball
+(31/8/2011)[19:45:58] Emily_Brown [CMD] -> /crb 3
+(31/8/2011)[19:46:9] Emily_Brown [CMD] -> /crb 3
+(31/8/2011)[19:46:21] Emily_Brown [CMD] -> /rrball
+(31/8/2011)[19:46:49] Emily_Brown [CMD] -> /buy
+(31/8/2011)[19:46:53] Emily_Brown [CMD] -> /buybiz
+(31/8/2011)[19:46:55] Emily_Brown [CMD] -> /buybizz
+(31/8/2011)[19:46:58] Emily_Brown [CMD] -> /buybizzs
+(31/8/2011)[19:47:0] Emily_Brown [CMD] -> /buybizs
+(31/8/2011)[19:47:53] Emily_Brown [CMD] -> /makeleader 0 4
+(31/8/2011)[19:47:56] Emily_Brown [CMD] -> /duty
+(31/8/2011)[19:48:7] Emily_Brown [CMD] -> /help
+(31/8/2011)[19:48:13] Emily_Brown [CMD] -> /medichelp
+(31/8/2011)[19:49:31] Emily_Brown [CMD] -> /tlc
+(31/8/2011)[19:51:36] Emily_Brown [CMD] -> /fill 50
+(31/8/2011)[19:52:34] Emily_Brown [CMD] -> /startwest
+(31/8/2011)[19:56:32] Emily_Brown [CMD] -> /makeleader 0 2
+(31/8/2011)[19:56:46] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:56:50] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:56:59] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:57:7] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:57:9] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:57:17] Emily_Brown [CMD] -> /weather 2
+(31/8/2011)[19:57:32] Emily_Brown [CMD] -> /weather 2
+(31/8/2011)[19:57:35] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:57:41] Emily_Brown [CMD] -> /go
+(31/8/2011)[19:59:10] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[20:6:17] Emily_Brown [CMD] -> /enter
+(31/8/2011)[20:7:11] Emily_Brown [CMD] -> /go
+(31/8/2011)[20:12:36] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[20:13:13] Emily_Brown [CMD] -> /rentbike
+(31/8/2011)[20:14:34] Emily_Brown [CMD] -> /gotols
+(31/8/2011)[20:14:38] Emily_Brown [CMD] -> /gotobank
+(31/8/2011)[20:14:56] Emily_Brown [CMD] -> /rentcar
+(31/8/2011)[20:15:7] Emily_Brown [CMD] -> /engine
+(31/8/2011)[20:15:18] Emily_Brown [CMD] -> /sellcar
+(31/8/2011)[20:15:26] Emily_Brown [CMD] -> /unrentcar
+(31/8/2011)[20:15:35] Emily_Brown [CMD] -> /rentcar
+(31/8/2011)[20:23:31] Emily_Brown [CMD] -> /veh 411 1 1
+(31/8/2011)[20:24:31] Emily_Brown [CMD] -> /rentcar
+(1/9/2011)[8:12:1] Emily_Brown [CMD] -> /rentcar
+(1/9/2011)[8:12:12] Emily_Brown [CMD] -> /gotols
+(1/9/2011)[8:12:17] Emily_Brown [CMD] -> /veh 411 1 1
+(1/9/2011)[8:17:7] Emily_Brown [CMD] -> /veh 411 1 1

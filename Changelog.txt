@@ -1,0 +1,452 @@
+v1.0 - 
+
+• Server Release
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.1 - 
+
+• Fixed some minor bugs
+• Added /hidetds
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.2 -
+
+• Fixed the Location when the server Restarted.
+• Removed the Gun Save on Disconnect System.
+• Fixed some other minor issues.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.3 - 
+
+• Fixed some minor bugs
+• Fixed the Anticheat alarms with the anti bunny jump.
+• Modified /suspectlist
+• Modified /login & /register
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.3b - 
+
+• Fixed the bug that you get frozen when you register.
+• Fixed the Anti bunny jump kicks.
+• Modified /setadminlevel, fixed some string bugs.
+• Modified some other minor things.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.4 -
+
+• Fixed the Anticheat and Bunny jump things.
+• Fixed the Interior Kick when you register.
+• Added /factionlist
+• Removed the Streamer
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.4b -
+
+• Fixed the Anticheat and Bunny jump things Critical Error.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.4c -
+
+• Fixed Compatibility with Linux.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.5 -
+
+• You will only see the Admin messages if you're on admin duty.
+• Fixed /admins
+• Fixed the Unlog Position Save
+• Added Show/Hide in admin list at /turn
+• Some fixes to the /r and /f.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.6 -
+
+• Fixed The 3d Textdraw on houses.
+• Added Enable/Disable Anti Bunny Jump at /turn. It will be saved on server restart.
+• Fixed the OnPlayerUpdate Issue, its now Called when needed.
+• Changed the Messages Admin Messages, you will receive Anticheat Warnings and important messages even if you're off duty.
+• All non important admin messages will be displayed to lvl 5+ admins that are on duty.
+• Fixed the bank.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.6b -
+
+• Removed kick for interior/world possible hacks, it was not stable.
+• Fixed minor things with the admin chat
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.6c -
+
+• New fix for the Bank.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.7 -
+
+• Total Re-write of the money and interior anticheat.
+• Fixed the /wank bug.
+• Fixed unnecessary money and interior hacks calls.
+• Added SafeSetPlayerInterior function for anticheat.
+• Script now uses Serverside money.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.7b -
+
+• Re-Write of a bit of Anticheat
+• Fixes to /warn
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v1.8 -
+
+• Added /turn for the Anticheat, All the AC Features can be enabled/disabled.
+• Changed the size and location of /td 4.
+• Added /tduty /settesterlevel /tpm and /tester (///)
+• Added a random weather change (Ranges from weather 0 to 20).
+• Added /tax
+• Fixed /payday and /taxday.
+• Added /moneyall.
+• Added Robbing Places, /robburger, /robcluckin, /robcityhall, /robbank, /robbar, /robalhambra.
+• Added Tester Rank.
+• Added Testers to the /admins.
+• Added that testers can get /atalk messages.
+• Added SendTesterMessage and SendTesterAdminMessage.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.0 -
+
+• Added Turfs.
+• Added Areas.
+• Added Textdraws
+• Fixed lots of Admin Commands.
+• Fixed Some player commands.
+• Added Some cop commands.
+• Added /setlottonumber and /setalllottonumber
+• Fixed some Admin things.
+• Changed some admin Commands.
+• Crime will now save.
+• Tester & Helper Rank will now save.
+• Added /whyleft to see the last reason of the player leaving.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.1 -
+
+• Law Enforcement Turfs Removed.
+• Added icons at illegal jobs (red circle), Cop helipads and gangs HQ.
+• Removed Name Textdraw.
+• Added Faction TD.
+• Removed unused Player Textdraws.
+• Added Level references at /turn and added admin innmunerability.
+• Added /area.
+• Location textdraws will now save.
+• Re-Writed mySQL support.
+• Added death reasons on player death
+• Modified the version TD.
+• /arrest fixed
+• Added /banktax and /bankreward.
+• Added /mir for cops to read the player's rights.
+• Moved /td 4 & 2
+• Sprunks are now 25$, and gives you 20 HP only.
+• Money Ac Fixed totally, will no longer display warnings for non cheaters.
+• Better design for /ah
+• Fixed LSPD Helipad
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.1b -
+
+• Fixed some onplayerconnect error
+• Fixed money AC within the spawn.
+• Added /bankmoneyall & /bankmoney
+• Added /chatmode
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.2 -
+
+• Turfs - Removed the Uneeded turfs (LSPD, Army, LSCH, FBIHQ)
+• Added /f for firemen.
+• Bug Fixes
+• Added Welcome Money
+• Added Cars Around LS
+• Changed Icons
+• Added Faction Sons of Anarchy.
+• Fixed the 3d Textdraws - Some of them were bugged.
+• Changed lots of Admins Functions
+• Freecop System (Commented)
+• Passport System
+• Added /givepassport & /agivepassport
+• Typos Fixes
+• /f for Chornaya Bratva
+• Changed yamaguchi's cars.
+• Changed size of turfs.
+• New Car System - 369 Ownable Cars
+• Dealerships Modified; Added 6 Dealerships Around LS
+• New Bizz System - All the shops are now player ownable.
+• Bug Fixes
+• Bank Account Money is now Mod-Able IG
+• Added /setcarhp, /setcarpj
+• Removed Cop Colours
+• Added /(sur)render
+• Added /cuff and /uncuff
+• Dynamic Houseing System
+• Added /houseint
+• Paintjob Saves
+• All owner commands are usable by scripter (1337)
+• Modified Developers Area
+• New Spectating System
+• Dynamic Car System; 500 Set-Able cars.
+• Added /setcar, modified /edit.
+• Added /findcar, /foundit
+• HP and Armour will Save
+• Money anticheat Warnings Fixed.
+• Admin chat Colours Change; Yellow, Green and Lightred for different messages.
+• Added Anti AFK at /turn anticheat.
+• Added Anti RP Name at /turn anticheat.
+• /lottoann uses textdraws.
+• Debt money is removed from bank account.
+• Typos Fixes.
+• Code Optimization.
+• Added /getin and /getout.
+• Modified Areas.
+• Added /doorshout and /knock.
+• Added Streamer Plugin. (Thanks Incognito)
+• Added New hospital interior.
+• Added new ABC offices interior.
+• Added decoration at Market hospital.
+• Added decoration at LSPD.
+• Added a car graveyard at East Los Santos Sewers.
+• LSPD Garage Door at the right is now open-able
+• Removed the gate at loco low co.
+• Removed medic and firemen colors.
+• Removed useless textdraws
+• Death messages now appear for the admins in console.
+• Connecting Messages for Normal users.
+• Added flashing money textdraw.
+• Lotto Every Three Hours automatically.
+• On payday, the amount of the lotto jackpot has been decreased.
+• LSPD can no longer spawn the hydra or the rhino
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.3 -
+
+• Added GPS
+• Added /gps
+• Added /gpsfind
+• Fixed the Doors bug
+• Removed some map icons
+• Added <ammo> at /give gun
+• Pickups at houses
+• New Spectator()
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.4 -
+
+• SpikeStrip.inc not needed.
+• Login/Register with Dialogs.
+• Reduced Houses.
+• Added /sethouse.
+• Added /unsethouse.
+• Bug Fixes.
+• 3d Text Added for Admins/Testers on duty.
+• To enter a place its now needed to press VEHICLE_ENTERING_KEY.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.5 -
+
+• Added /Trace.
+• Added (again) 500 Houses.
+• Changed some Logs.
+• Changed the Colour of the 3d Textdraws.
+• New tutorial for "new" owners.
+• Added /clearrecord.
+• Increased the size of the saving arrays.
+• Added /savecar to save car mods.
+• Better Security for Money & Weapon Anticheat.
+• Added /atc, /atcradio and /atcrights.
+• Changed the tutorial
+• Added /rban
+• Added /cage and /uncage
+• Added /Pending.
+• Fixed Regular Rank seconds
+• Added /taketest.
+• Added /helmet.
+• Changed /belt.
+• Changed entering vehicle messages.
+• Added 3d Textdraws to sellable vehicles.
+• Removed the Textdraw at the top of the screen.
+• Fixed the Login / Register bug.
+• Added /atake
+• Changed /createpickup
+• New AFK Kicker and System
+• Added /afk and Back for admins.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.5b -
+
+• Added Terms And Conditions
+• Added logs for Login and Register
+• Fixed some Bugs
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.6 -
+
+• Massive Fixes to SetPlayerSpawn
+• Massive Fixes to /aduty & /spec
+• Massive Fixes to UpdatePlayerPosition
+• Added /givefight
+• Added /officercourse
+• Added /officertest
+• Added Freecops
+• Added /fightstyle
+• Added /aeject
+• Changed Training System
+• Added /selectspawn
+• Changed the spawn system
+• Better Spectating System
+• Better Money anticheat
+• Dashboards Changes
+• Added another kind of Advertisement.
+• Added /account
+• Removed /changepass & /levelup.
+• Increased by 150% the Account Security.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v2.7 -
+
+• Fixes to the Anticheat.
+• Fixes to /suspectlist.
+• Modified /suspectlist.
+• Added More Protection against money hackers.
+• Added the status "ON CASH INBALANCE"
+• Added /fixmoney.
+• Modified the Shop Robberies.
+• Added a new Logo for the Script.
+• Fixed the SQL OnPlayerUpdateEx.
+• Fixed the SQL OnPlayerLogin.
+• Added /tazer.
+• Modified Rcon Security.
+• Added Punishments (More).
+• Modified the Register Dialog.
+• Clock Textdraw Added.
+• Added /countdown.
+• Added /cancelcoutdown.
+• Jail Time textdraw Added.
+• warning reason Textdraw Removed.
+• New Anticheat Functions (Anti DB / Anti Fake Death / High ping Kicker)
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+vFinal -
+
+• Fixes to the clock.
+• Renewed the whole car system.
+• Increased car limit to two.
+• Modified /v buy & /v sell.
+• Added /gotolvap
+• Added /gotosfdocks.
+• Added trailers around some areas.
+• Changed the Vehicles textdraws.
+• Optimizated OnPlayerKeyStateChange.
+• Added /votekick for everyone.
+• Added /voteban for regulars.
+• Added /cancelvote for Admins.
+• Added /quitfaction.
+• Added Scrap yard.
+• Added /setmotd.
+• Modified /gps.
+• Optimized OnPropUpdate.
+• Modified the house Pickups.
+• Added OnHousePickupUpdate.
+• Optimized OnPropTextdrawUpdate.
+• Added /countdownkick
+• Added /calendar
+• Added /setevent
+• Modified /edit
+• Revaluated All Houses Prices.
+• Added More gang Cars.
+• Enchanced the Jobs
+• Enchanced /radio
+• Enchanced /departments
+• Added 611 Houses.
+• Modified /sethouse
+• Callback EvaluateHouse added.
+• Renewed the whole House System.
+• Added GetVehicleName
+• Enchanced Vehicle Entering System
+• Balanced /equip.
+• Re-Added job colours.
+• Enchanced Jobs.
+• Added more jobs Cars.
+• Modified /bizentrance.
+• Fixes to /changename.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+
+vFinal-2
+
+• Fixed Tazer.
+• Fixed freecops entering cars issue.
+• Fixed some typos with /agivepassport.
+• Changed the achievements.
+• Script converted into 0.3b.
+• GPS renewed.
+• Improvements to Heavy Vehicles.
+
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+v3
+
+• Added /use.
+• Fixed /v park.
+• Fixed /v color.
+• Added /v setcode.
+• Changed /v paintjob.
+• Added /attachweapon.
+• Added /deattachweapon.
+• Fixed Tazer ammo bug.
+• Added /acheckcode.
+• Added /carcode.
+• Added /checkcode.
+• Added /security.
+• Added /getdecoder.
+• Added /alias.
+• Added /ips.
+• Added /getips.
+• Added /getaliases.
+• Added /upload.
+• Added /unban.
+• Fixed /gps.
+• Modified /store.
+• Modified /load.
+• Modified FBI HQ.
+• Modified /turn.
+• Fixed /clothes Bug.
+• Added /anticheat.
+• Added /adminarea.
+• Added anti flood kicker.
+• Passwords are now Hashed.
+• Fixed MOTD Last Character.
+• Re-Written the car system.
+• Modified /asellhouse.
+• Modified /asellbiz.
+• Modified /asellsbiz.
+• Modified /asellcar.
+• Added /setbiz.
+• New ban system.
+• New the Bizz system.
+• Added /setbiz.
+• Added /unsetbiz.
+• Modified /area.
+• Added /namehouse.
+• Added /namebizz.
+• Added new Admin Chat.
+• Rewrote Weapon/Ammo Anticheat.
+• Modified /area.
+• Added a new Car Lock System.
+• Added F.B.I Garage & Helipad.
+• Fixed House storing System.
+• Modified the max ping settings.
+• Optimizations to various codes.
+• Better Protection to the Anticheat.
+• Modified vehicle spawning commands.
+• Dini is now used on The new Changes.
+• Rhino can now only be spawned at Army HQ.
+• Massive Graphical decorations all over LS.
+• Re-Wrote The Stats/Register/Login Saving/Load system.
+• Re-wrote The Car/House/Bizz/Sbizz saving/Load System.
+• Law Enforcement Leaders can now any special vehicle.

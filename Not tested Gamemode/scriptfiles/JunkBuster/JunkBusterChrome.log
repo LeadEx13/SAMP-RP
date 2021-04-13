@@ -1,0 +1,300 @@
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:09:07
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x-44444500
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 11:00
+Keys: 0xB 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:11:41
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x-44444500
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 11:00
+Keys: 0xB 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[asasffa, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:12:08
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x-44444500
+Money: 0 0
+Score: 0
+Skin: 0
+Wanted level: 0
+Drunk level: 0
+Player time: 11:00
+Keys: 0xB 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:13:43
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 1962.140014 -1788.385375 13.382812 0.999950 0 0
+State: 1 46.000000 0.000000 1133 PED FALL_LAND
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 35 172
+Color: 0x-100
+Money: 0 0
+Score: 0
+Skin: 36
+Wanted level: 0
+Drunk level: 1846
+Player time: 11:00
+Keys: 0x0 0x0 0x0
+Camera: 1961.702148 -1791.593994 15.310400 0.125147 0.916762 -0.379321
+Special action: 0
+Weapons: 0 0 0 0 24 64 27 97 0 0 0 0 0 0 35 172 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:15:38
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 330.846710 163.821716 1014.187500 343.861358 3 0
+State: 1 50.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 5 5 0.015676 0.030122 0.000000
+Armed weapon: 0 0
+Color: 0x-100
+Money: 0 0
+Score: 0
+Skin: 135
+Wanted level: 0
+Drunk level: 1960
+Player time: 11:00
+Keys: 0x0 0x-80 0x0
+Camera: 329.960205 161.810897 1014.942321 0.361303 0.929241 -0.077266
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:18:58
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 330.884155 163.946777 1014.187500 7.601425 3 0
+State: 1 50.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 6 6 0.000017 0.037716 0.000000
+Armed weapon: 0 0
+Color: 0x-100
+Money: 0 0
+Score: 0
+Skin: 135
+Wanted level: 0
+Drunk level: 1818
+Player time: 11:00
+Keys: 0x0 0x0 0x-80
+Camera: 328.238586 161.483200 1015.278076 0.737207 0.659282 -0.147893
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:21:29
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 1555.613525 -2328.233642 13.541530 354.190856 0 0
+State: 1 50.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 8 8 -0.002214 0.049658 0.000000
+Armed weapon: 0 0
+Color: 0x-100
+Money: 0 0
+Score: 0
+Skin: 27
+Wanted level: 0
+Drunk level: 484
+Player time: 11:00
+Keys: 0x0 0x-80 0x80
+Camera: 1556.977539 -2331.392333 15.016699 -0.389014 0.886644 -0.250057
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:28:20
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 1555.374877 -2314.095703 13.541647 346.152740 0 0
+State: 1 50.000000 0.000000 1231 PED RUN_PLAYER
+Speed: 27 27 0.035408 0.167055 0.000000
+Armed weapon: 0 0
+Color: 0x-100
+Money: 0 0
+Score: 0
+Skin: 27
+Wanted level: 0
+Drunk level: 1614
+Player time: 11:00
+Keys: 0x8 0x-80 0x-80
+Camera: 1553.141357 -2322.379882 15.052599 0.596662 0.759120 -0.260250
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:56:00
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 0.000000 0.000000 0.000000 0.000000 0 0
+State: 0 0.000000 0.000000 0  
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x-44444500
+Money: 0 0
+Score: 0
+Skin: 7
+Wanted level: 0
+Drunk level: 0
+Player time: 11:00
+Keys: 0xB 0x0 0x0
+Camera: 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 20. August 2011
+Time: 11:57:28
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 330.682495 163.668792 1014.187500 280.000000 3 0
+State: 1 50.000000 0.000000 1189 PED IDLE_STANCE
+Speed: 0 0 0.000000 0.000000 0.000000
+Armed weapon: 0 0
+Color: 0x-100
+Money: 999999999 0
+Score: 0
+Skin: 135
+Wanted level: 0
+Drunk level: 1131
+Player time: 11:00
+Keys: 0x0 0x0 0x0
+Camera: 330.716308 161.730895 1014.884826 -0.017430 0.998598 -0.049979
+Special action: 0
+Weapons: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 23. August 2011
+Time: 20:00:07
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 672.446777 -2108.724365 59.999206 0.999950 0 0
+State: 1 89.000000 40.000000 1130 PED FALL_FALL
+Speed: 107 0 0.000000 0.000000 -0.666231
+Armed weapon: 24 41
+Color: 0x-563B1C00
+Money: 0 0
+Score: 0
+Skin: 280
+Wanted level: 0
+Drunk level: 1967
+Player time: 19:00
+Keys: 0x0 0x0 0x0
+Camera: 672.507873 -2112.219482 76.001899 -0.017430 0.998598 -0.049979
+Special action: 0
+Weapons: 0 0 0 0 24 41 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
+[Eugen_Kelson, 0]
+Comment: No comment
+Date: 23. August 2011
+Time: 20:00:50
+IP: 127.0.0.1
+Ping: 0
+gpci: DDE8DAD0889ADDD5A44EC8484AAE499C9DCD4D8E
+Coordinates: 672.446777 -2108.724365 29.620630 0.999950 0 0
+State: 1 89.000000 40.000000 1130 PED FALL_FALL
+Speed: 103 0 0.000000 0.000000 -0.643013
+Armed weapon: 24 41
+Color: 0x-563B1C00
+Money: 0 0
+Score: 0
+Skin: 280
+Wanted level: 0
+Drunk level: 1968
+Player time: 19:00
+Keys: 0x0 0x0 0x0
+Camera: 672.507873 -2112.219482 40.334999 -0.017430 0.998598 -0.049979
+Special action: 0
+Weapons: 0 0 0 0 24 41 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Vehicle: None
+Vehicle components: None
+
